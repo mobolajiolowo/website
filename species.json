@@ -1,0 +1,266 @@
+{
+    "Acacia auriculariformis": {
+        "keys": "0001 0001 0010 0000",
+        "description": "Acacia auriculariformis is a species of tree..."
+    },
+    "Acacia hockii": {
+        "keys": "1000 0100 0010 1000",
+        "description": "Acacia hockii is a species of tree..."
+    },
+    "Adansonia digitata": {
+        "keys": "0000 0001 0010 0000",
+        "description": "Adansonia digitata is a species of tree..."
+    },
+    "Afrormosia laxiflora (Pericopsis laxiflora)": {
+        "keys": "0000 0001 0010 0000",
+        "description": "Afrormosia laxiflora is a species of tree..."
+    },
+    "Afzelia Africana": {
+        "keys": "0000 1110 0010 0010",
+        "description": "Afzelia Africana is a species of tree..."
+    },
+    "Albizzia lebbeck": {
+        "keys": "0000 1101 0000 0000",
+        "description": "Albizzia lebbeck is a species of tree..."
+    },
+    "Annona senegalensis": {
+        "keys": "0001 0001 0010 0010",
+        "description": "Annona senegalensis is a species of tree..."
+    },
+    "Anogeissus leiocarpus": {
+        "keys": "0000 1000 0010 0001",
+        "description": "Anogeissus leiocarpus is a species of tree..."
+    },
+    "Azadirachta indica": {
+        "keys": "0001 0001 0000 0010",
+        "description": "Azadirachta indica is a species of tree..."
+    },
+    "Bahunia monadra": {
+        "keys": "0001 0000 1000 0000",
+        "description": "Bahunia monadra is a species of tree..."
+    },
+    "Bauhinia variagata": {
+        "keys": "0001 0001 0100 0000",
+        "description": "Bauhinia variagata is a species of tree..."
+    },
+    "Bligha sapida": {
+        "keys": "0001 0010 0010 0010",
+        "description": "Bligha sapida is a species of tree..."
+    },
+    "Bridellia ferrunginea": {
+        "keys": "1101 0001 0000 0001",
+        "description": "Bridellia ferrunginea is a species of tree..."
+    },
+    "Burkea africana": {
+        "keys": "0000 1001 0000 0010",
+        "description": "Burkea africana is a species of tree..."
+    },
+    "Cassia fistula": {
+        "keys": "0000 1101 0010 0010",
+        "description": "Cassia fistula is a species of tree..."
+    },
+    "Casuarina equisetofolia": {
+        "keys": "0001 0000 1010 0010",
+        "description": "Casuarina equisetofolia is a species of tree..."
+    },
+    "Crescenta cujeta": {
+        "keys": "0001 0010 0010 0000",
+        "description": "Crescenta cujeta is a species of tree..."
+    },
+    "Daniellia oliveri": {
+        "keys": "0000 1001 0010 0011",
+        "description": "Daniellia oliveri is a species of tree..."
+    },
+    "Delonix regia": {
+        "keys": "0000 0101 0010 1010",
+        "description": "Delonix regia is a species of tree..."
+    },
+    "Detarium microcarpum": {
+        "keys": "0000 1001 0000 0010",
+        "description": "Detarium microcarpum is a species of tree..."
+    },
+    "Entanda africana": {
+        "keys": "0000 0100 0010 1001",
+        "description": "Entanda africana is a species of tree..."
+    },
+    "Eucalyptus camendulensis": {
+        "keys": "0000 1001 1010 0001",
+        "description": "Eucalyptus camendulensis is a species of tree..."
+    },
+    "Ficus exasperata": {
+        "keys": "0101 0001 0100 0001",
+        "description": "Ficus exasperata is a species of tree..."
+    },
+    "Ficus sycomorous": {
+        "keys": "0101 0001 0110 0001",
+        "description": "Ficus sycomorous is a species of tree..."
+    },
+    "Ficus thonnigi": {
+        "keys": "0101 0001 0110 0101",
+        "description": "Ficus thonnigi is a species of tree..."
+    },
+    "Gliricida sepium": {
+        "keys": "0000 1101 0010 0010",
+        "description": "Gliricida sepium is a species of tree..."
+    },
+    "Gmelina arborea": {
+        "keys": "0001 0101 0110 0101",
+        "description": "Gmelina arborea is a species of tree..."
+    },
+    "Hildergardia barteri": {
+        "keys": "0001 0001 0100 0101",
+        "description": "Hildergardia barteri is a species of tree..."
+    },
+    "Hura creiptans": {
+        "keys": "1011 0001 0110 0100",
+        "description": "Hura creiptans is a species of tree..."
+    },
+    "Hymenocardia acida": {
+        "keys": "0001 0010 0010 0010",
+        "description": "Hymenocardia acida is a species of tree..."
+    },
+    "Isoberlina doka": {
+        "keys": "0000 1101 0010 0000",
+        "description": "Isoberlina doka is a species of tree..."
+    },
+    "Jatropha carcus": {
+        "keys": "0011 0001 0100 0101",
+        "description": "Jatropha carcus is a species of tree..."
+    },
+    "Lophira lanceolata": {
+        "keys": "0101 0000 0010 0100",
+        "description": "Lophira lanceolata is a species of tree..."
+    },
+    "Nauclea latifolia": {
+        "keys": "0001 0100 0010 0000",
+        "description": "Nauclea latifolia is a species of tree..."
+    },
+    "Newbouldia laevis": {
+        "keys": "0000 1110 0010 0110",
+        "description": "Newbouldia laevis is a species of tree..."
+    },
+    "Parinari polyandra": {
+        "keys": "0001 0010 0010 0000",
+        "description": "Parinari polyandra is a species of tree..."
+    },
+    "Parkia biglobosa(clappertoniana)": {
+        "keys": "0000 0001 0010 1011",
+        "description": "Parkia biglobosa (clappertoniana) is a species of tree..."
+    },
+    "Pelthophorum pterocarpum": {
+        "keys": "0000 0101 0010 1010",
+        "description": "Pelthophorum pterocarpum is a species of tree..."
+    },
+    "Piliostigma thonningii": {
+        "keys": "0001 0001 0100 0001",
+        "description": "Piliostigma thonningii is a species of tree..."
+    },
+    "Plumeria alba": {
+        "keys": "0101 0010 0010 0000",
+        "description": "Plumeria alba is a species of tree..."
+    },
+    "Plumeria rubra": {
+        "keys": "0101 0010 0011 0100",
+        "description": "Plumeria rubra is a species of tree..."
+    },
+    "Polyaltha longifolia": {
+        "keys": "0001 0001 0010 0010",
+        "description": "Polyaltha longifolia is a species of tree..."
+    },
+    "Prosopis africana": {
+        "keys": "0000 0101 0010 1011",
+        "description": "Prosopis africana is a species of tree..."
+    },
+    "Pterocarpus erinaceus": {
+        "keys": "0000 1010 0010 0010",
+        "description": "Pterocarpus erinaceus is a species of tree..."
+    },
+    "Pterocarpus osun": {
+        "keys": "0000 1001 0010 0010",
+        "description": "Pterocarpus osun is a species of tree..."
+    },
+    "Securidaca longepeduncuata": {
+        "keys": "0000 1000 0010 0010",
+        "description": "Securidaca longepeduncuata is a species of tree..."
+    },
+    "Spondias mombin": {
+        "keys": "0001 0001 0010 0010",
+        "description": "Spondias mombin is a species of tree..."
+    },
+    "Stereospermum kunthianum": {
+        "keys": "0000 1111 0010 0010",
+        "description": "Stereospermum kunthianum is a species of tree..."
+    },
+    "Strychnos innocua": {
+        "keys": "0001 0100 0010 0011",
+        "description": "Strychnos innocua is a species of tree..."
+    },
+    "Tamarindus indica": {
+        "keys": "0000 1100 0010 0011",
+        "description": "Tamarindus indica is a species of tree..."
+    },
+    "Tectona grandis": {
+        "keys": "0001 0110 0111 0000",
+        "description": "Tectona grandis is a species of tree..."
+    },
+    "Terminalia cattapar": {
+        "keys": "0001 0010 0101 0011",
+        "description": "Terminalia cattapar is a species of tree..."
+    },
+    "Terminalia gluascences": {
+        "keys": "0001 0000 0010 0100",
+        "description": "Terminalia gluascences is a species of tree..."
+    },
+    "Terminalia mantaly": {
+        "keys": "0000 0010 0000 0010",
+        "description": "Terminalia mantaly is a species of tree..."
+    },
+    "Vitellaria paradoxa": {
+        "keys": "0101 0001 0010 0100",
+        "description": "Vitellaria paradoxa is a species of tree..."
+    },
+    "Vitex doniana": {
+        "keys": "0000 0110 0010 0010",
+        "description": "Vitex doniana is a species of tree..."
+    },
+    "Sena siamea": {
+        "keys": "1000 0110 0010 0010",
+        "description": "Sena siamea is a species of tree..."
+    },
+    "Milletia thoniggi": {
+        "keys": "0000 1110 0010 0010",
+        "description": "Milletia thoniggi is a species of tree..."
+    },
+    "Senna arabica": {
+        "keys": "1001 0000 0010 0011",
+        "description": "Senna arabica is a species of tree..."
+    },
+    "Securinega virosa": {
+        "keys": "1000 1010 0010 0000",
+        "description": "Securinega virosa is a species of tree..."
+    },
+    "Melicia excelsa": {
+        "keys": "0011 0001 0100 0000",
+        "description": "Melicia excelsa is a species of tree..."
+    },
+    "Terminalia avicenniodes": {
+        "keys": "0001 0000 0010 0000",
+        "description": "Terminalia avicenniodes is a species of tree..."
+    },
+    "Pachira glabra": {
+        "keys": "0001 0000 0010 0010",
+        "description": "Pachira glabra is a species of tree..."
+    },
+    "Alstonia boonei": {
+        "keys": "0101 0110 0010 0000",
+        "description": "Alstonia boonei is a species of tree..."
+    },
+    "Pilliostigma reticulatum": {
+        "keys": "0001 0001 0000 0101",
+        "description": "Pilliostigma reticulatum is a species of tree..."
+    },
+    "Bombax buonopozense": {
+        "keys": "1001 0010 0010 0000",
+        "description": "Bombax buonopozense is a species of tree..."
+    }
+}

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Search Results</h1>
+    <div class="result">
+        <h2>The specie you searched is {{ species_name }}</h2>
+        <p>Taxono mic keys: {{ keys }}</p>
+      <p>Description: {{ descriptipn}}</p>
+      <p> This specie can be found at {{location}} on the campus of University of Ilorin</p>
+    </div>
+</body>
+</html>
