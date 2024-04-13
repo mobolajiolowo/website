@@ -1,14 +1,15 @@
 import pandas as pd
 
-# Read JSON data into a DataFrame
-species_df = pd.read_csv('species.csv')
+# Replace 'path/to/your/file.csv' with the actual path to your CSV file
+
+# Read the CSV file using with open
+data = []
+with open('species.csv', 'r', encoding='windows-1252') as file:
+    for line in file:
+        data.append(line.strip().split(','))  # Split each line into a list of values
+
+# Convert the data list into a DataFrame
+df = pd.DataFrame(data)
 
 # Display the DataFrame
-search_input = input("Enter")
-species_row= species_df[species_df['species'].str.contains(search_input, case=False) |
-                          species_df['keys'].str.contains(search_input, case=False)]
-    
-#species_name = species_row['species'].values
-#keys = species_row['keys'].values
-print(species_row)
-#print(keys)
+print(df.head(10))

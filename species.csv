@@ -1,67 +1,1043 @@
-species,keys
-Acacia auriculariformis,0001 0001 0010 0000 
-Acacia hockii,1000 0100 0010 1000
-Adansonia digitata,0000 0001 0010 0000
-Afrormosia laxiflora (Pericopsis laxiflora),0000 0001 0010 0000
-Afzelia Africana,0000 1110 0010 0010
-Albizzia lebbeck,0000 1101 0000 0000
-Annona senegalensis,0001 0001 0010 0010
-Anogeissus leiocarpus,0000 1000 0010 0001
-Azadirachta indica,0001 0001 0000 0010
-Bahunia monadra,0001 0000 1000 0000
-Bauhinia variagata,0001 0001 0100 0000
-Bligha sapida,0001 0010 0010 0010
-Bridellia ferrunginea,1101 0001 0000 0001
-Burkea africana,0000 1001 0000 0010
-Cassia fistula,0000 1101 0010 0010
-Casuarina equisetofolia,0001 0000 1010 0010
-Crescenta cujeta,0001 0010 0010 0000
-Daniellia oliveri,0000 1001 0010 0011
-Delonix regia,0000 0101 0010 1010
-Detarium microcarpum,0000 1001 0000 0010
-Entanda africana,0000 0100 0010 1001
-Eucalyptus camendulensis,0000 1001 1010 0001
-Ficus exasperata,0101 0001 0100 0001
-Ficus sycomorous,0101 0001 0110 0001
-Ficus thonnigi,0101 0001 0110 0101
-Gliricida sepium,0000 1101 0010 0010
-Gmelina arborea,0001 0101 0110 0101
-Hildergardia barteri,0001 0001 0100 0101
-Hura creiptans,1011 0001 0110 0100
-Hymenocardia acida,0001 0010 0010 0010
-Isoberlina doka,0000 1101 0010 0000
-Jatropha carcus,0011 0001 0100 0101
-Lophira lanceolata,0101 0000 0010 0100
-Nauclea latifolia,0001 0100 0010 0000
-Newbouldia laevis,0000 1110 0010 0110
-Parinari polyandra,0001 0010 0010 0000
-Parkia biglobosa(clappertoniana),0000 0001 0010 1011
-Pelthophorum pterocarpum,0000 0101 0010 1010
-Piliostigma thonningii,0001 0001 0100 0001
-Plumeria alba,0101 0010 0010 0000
-Plumeria rubra,0101 0010 0011 0100
-Polyaltha longifolia,0001 0001 0010 0010
-Prosopis africana,0000 0101 0010 1011
-Pterocarpus erinaceus,0000 1010 0010 0010
-Pterocarpus osun,0000 1001 0010 0010
-Securidaca longepeduncuata,0000 1000 0010 0010
-Spondias mombin,0001 0001 0010 0010
-Stereospermum kunthianum,0000 1111 0010 0010
-Strychnos innocua,0001 0100 0010 0011
-Tamarindus indica,0000 1100 0010 0011
-Tectona grandis,0001 0110 0111 0000
-Terminalia cattapar,0001 0010 0101 0011
-Terminalia gluascences,0001 0000 0010 0100
-Terminalia mantaly,0000 0010 0000 0010
-Vitellaria paradoxa,0101 0001 0010 0100
-Vitex doniana,0000 0110 0010 0010
-Sena siamea,1000 0110 0010 0010
-Milletia thoniggi,0000 1110 0010 0010
-Senna arabica,1001 0000 0010 0011
-Securinega virosa,1000 1010 0010 0000
-Melicia excelsa,0011 0001 0100 0000
-Terminalia avicenniodes,0001 0000 0010 0000
-Pachira glabra,0001 0000 0010 0010
-Alstonia boonei,0101 0110 0010 0000
-Pilliostigma reticulatum,0001 0001 0000 0101
-Bombax buonopozense,1001 0010 0010 0000
+species,keys,description,location
+Acacia auriculariformis,0001 0001 0010 0000 ,"Acacia auriculariformis, commonly known as earleaf acacia, can be identified based on its unique morphological characteristics:
+
+1. Size and Habit: Earleaf acacia is a medium to large evergreen tree, typically reaching heights of 15-30 meters (49-98 feet). It has a spreading canopy with a moderately open crown.
+
+2. Bark: The bark of Acacia auriculariformis is grayish-brown to dark brown. On young trees, the bark is smooth and becomes rough and furrowed as the tree matures.
+
+3. Leaves: The distinct feature of this species is its ear-shaped leaves. The leaves have a narrow, curved base, resembling an elongated triangle or the shape of a fiddle. These leaves are alternate and arranged along the stems. They are approximately 10-16 cm in length, and their color is typically dark green. Prominent parallel veins run longitudinally on the leaves.
+
+4. Phyllodes: In some variations of the species, the leaves are modified into phyllodes, which are flattened leaf-like structures. Phyllodes are broader, shorter, and lack the typical petiole found in normal leaves. They can still exhibit the characteristic ear-like shape.
+
+5. Flowers: The inflorescences of earleaf acacia are yellow to cream-colored cylindrical spikes, measuring around 2.5 to 5 cm in length. These spikes emerge in clusters from the leaf axils.
+
+6. Pods: The fruit of Acacia auriculariformis is a flat, linear pod that ranges from 6 to 10 cm in length. These pods are dark brown and often slightly curved. They contain numerous seeds.
+
+7. Flowers and Fruits: The tree produces flowers and fruits throughout the year, which allows for observation at various stages.
+
+By focusing on these distinctive characteristics, you can confidently identify Acacia auriculariformis in its natural environment or in cultivated settings. For precise identification, it is recommended to consult local field guides or botanical experts.",opposite Faculty of Agriculture
+Acacia hockii,1000 0100 0010 1000,"Acacia hockii, commonly known as Hock's Acacia, is a tree species with distinct morphological features that aid in its identification:
+
+1. Size and Habit: Hock's Acacia is a medium-sized to large evergreen tree, typically attaining heights of 15-25 meters (49-82 feet). The tree has a moderately dense canopy with a well-defined crown.
+
+2. Bark: The bark of Acacia hockii is typically grayish-brown and becomes rough and fissured as the tree matures, adding to its distinctive appearance.
+
+3. Leaves: The leaves of this species are simple and alternate, arranged along the stems. They are pinnately compound, usually with 2-4 pairs of pinnae and a terminal leaflet. Each leaflet is oblong and measures about 2-5 cm in length. The leaves are dark green and have prominent veins running parallel.
+
+4. Thorns: One of the distinctive features of Hock's Acacia is the presence of thorns along its branches. These thorns can vary in size and shape but are typically found on the older branches and add to the tree's unique character.
+
+5. Flowers: Hock's Acacia produces cream-colored to pale yellow spherical flower heads that are arranged in compact globular clusters. These clusters emerge from the leaf axils, creating an eye-catching display.
+
+6. Pods: The fruit of Acacia hockii is a straight or slightly curved pod that measures around 4-10 cm in length. The pods are brown in color and contain small, elliptical seeds.
+
+7. Flowers and Fruits: The tree typically flowers during specific seasons, producing distinctive inflorescences that can be observed at various stages. Similarly, the pod development adds to the tree's appearance and identification.
+
+By observing and noting these distinctive features, including the presence of thorns, you can confidently identify Acacia hockii in its natural habitat or cultivated settings. Remember that for accurate identification, consulting local botanical experts or using field guides specific to your region is recommended.",On the Path to Ile-apa community
+Adansonia digitata,0000 0001 0010 0000,"Adansonia digitata, commonly known as the African Baobab or baobab tree, is distinguished by its unique morphological features that aid in its identification:
+
+1. Size and Habit: The African baobab is a massive and distinctive tree, capable of growing up to 25 meters (82 feet) or more in height. Its trunk has a wide, bottle-like shape that tapers towards the top, supporting a spreading, umbrella-like canopy.
+
+2. Bark: Younger baobab trees feature smooth, grayish-brown bark that gradually transforms into rough, deeply furrowed patterns as the tree matures. The texture of the bark, combined with the unique trunk shape, is a key identifying characteristic.
+
+3. Leaves: Baobab leaves are palmate and alternate in arrangement. They are comprised of 5-9 leaflets arranged in a digitate pattern. The individual leaflets are oval or elliptical and exhibit a slightly leathery texture. These leaves emerge from long, upright branches.
+
+4. Flowers: The baobab tree produces large, white to cream-colored flowers with a distinctive bottle-brush appearance. These flowers are pendant in structure and emit a pleasant fragrance.
+
+5. Fruits: The fruit of the African baobab is a large, woody capsule that contains hard, kidney-shaped seeds enveloped by fibrous pulp. Often referred to as ""monkey bread,"" the fruit is edible, and the fibrous pulp is used in various culinary and medicinal applications.
+
+By focusing on these unique and unmistakable features, you can confidently identify the African baobab in its natural habitat. For precise identification and further information about this species, consulting local botanical experts or using region-specific field guides is advisable.",Beside law mosque
+Afrormosia laxiflora (Pericopsis laxiflora),0000 0001 0010 0000,"Afrormosia laxiflora, formerly known as Pericopsis laxiflora, is a tree species with distinct morphological features that aid in its identification:
+
+1. Size and Habit: Afrormosia laxiflora is a large tree that can reach heights of up to 40 meters (131 feet) or more. It typically has a straight, cylindrical trunk and a well-formed, symmetrical canopy.
+
+2. Bark: The bark of Afrormosia laxiflora is smooth and grayish-brown on younger trees, developing a rough and scaly texture with age. The bark's color and texture can aid in identification.
+
+3. Leaves: The leaves of this species are alternate and pinnately compound. Each leaf consists of 5-7 leaflets that are oval or elliptical in shape. The leaflets have prominent midribs and are arranged in an evenly spaced manner along the central axis of the leaf.
+
+4. Flowers: Afrormosia laxiflora produces small, greenish-white to pale yellow flowers that are arranged in loose, drooping clusters known as panicles. The clusters emerge from the leaf axils.
+
+5. Fruits: The fruit of Afrormosia laxiflora is a woody, flattened pod that measures about 10-20 cm in length. The pods contain flat, winged seeds that are dispersed by wind.
+
+6. Timber: Afrormosia laxiflora is highly valued for its hard and durable timber, which is often used in woodworking and construction due to its strength and resistance to decay.
+
+By observing and noting these distinctive features, you can confidently identify Afrormosia laxiflora in its natural habitat. For accurate identification and further information about this species, consulting local botanical experts or using region-specific field guides is recommended.",faculty of pharmacy
+Afzelia Africana,0000 1110 0010 0010,"Afzelia africana, commonly known as African Mahogany or Pod Mahogany, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: African Mahogany is a large tree that can grow to heights of up to 45 meters (148 feet). It typically possesses a straight and tall trunk with a well-formed, rounded canopy.
+
+2. Bark: The bark of Afzelia africana is smooth and grayish-brown on younger trees, gradually becoming rough and fissured as the tree matures. The texture and color of the bark contribute to its recognizable appearance.
+
+3. Leaves: The leaves are alternate and compound, consisting of 5-7 pairs of leaflets that are oblong or lanceolate in shape. The leaflets have entire margins and are arranged along the pinnate leaf axis.
+
+4. Flowers: African Mahogany produces small, fragrant flowers that are typically greenish-white to pale yellow in color. The flowers are borne in loose clusters known as panicles that emerge from the leaf axils.
+
+5. Fruits: The fruit of Afzelia africana is a large, woody pod that measures around 15-30 cm in length. The pods are oval or oblong and contain hard, flattened seeds.
+
+6. Timber: The timber of African Mahogany is highly prized for its rich reddish-brown color and is often used in fine woodworking, cabinetry, and furniture making.
+
+By familiarizing yourself with these unique features, you can confidently identify African Mahogany in its natural environment. To ensure accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Beside Frech department
+Albizzia lebbeck,0000 1101 0000 0000,"Albizia lebbeck, commonly known as Lebbeck or Indian Siris, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Lebbeck is a medium-sized to large tree, typically growing to heights of 15-25 meters (49-82 feet). It has a spreading canopy with a rounded or umbrella-shaped crown.
+
+2. Bark: The bark of Albizia lebbeck is grayish-brown and is characterized by longitudinal fissures that create a rough and scaly texture as the tree matures.
+
+3. Leaves: The leaves are alternate and bipinnately compound. They consist of numerous small leaflets arranged along multiple branches. Each leaflet is oblong and has a smooth margin.
+
+4. Flowers: Lebbeck produces showy, fragrant flowers that are cream-colored to pale yellow. The flowers are arranged in long, cylindrical spikes that can measure up to 15 cm in length.
+
+5. Fruits: The fruit of Albizia lebbeck is a flattened, elongated pod that measures around 10-20 cm in length. The pods are green when young and turn brown and woody as they mature. They contain several seeds.
+
+6. Wood and Timber: Lebbeck wood is light in weight and is used for various purposes, including making furniture and utensils.
+
+By observing and noting these distinctive features, you can confidently identify Albizia lebbeck in its natural habitat. For precise identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is advisable.",In front of SLT(Science Lecture Theather)
+Annona senegalensis,0001 0001 0010 0010,"Annona senegalensis, commonly known as African Custard Apple or Wild Custard Apple, is a tree species with distinct morphological features that aid in its identification:
+
+1. Size and Habit: African Custard Apple is a medium-sized tree that typically grows to heights of 5-15 meters (16-49 feet). It has a rounded canopy with spreading branches.
+
+2. Bark: The bark of Annona senegalensis is grayish-brown and develops vertical cracks as the tree matures, creating a rough and scaly texture.
+
+3. Leaves: The leaves are alternate and simple, with an oval or elliptical shape. They are dark green and have a smooth margin. The leaves are arranged along the branches.
+
+4. Flowers: African Custard Apple produces small, fragrant flowers that are greenish-yellow in color. The flowers have three fleshy outer petals and are borne singly or in clusters along the branches.
+
+5. Fruits: The fruit of Annona senegalensis is a large, oval or round structure with a greenish-yellow skin that becomes yellow or brown when ripe. The fruit contains edible white flesh that is sweet and custard-like, with black seeds embedded within.
+
+6. Culinary and Medicinal Uses: The edible fruit of African Custard Apple is valued for its taste and is used in various culinary preparations. Additionally, different parts of the tree are used in traditional medicine for various ailments.
+
+By observing and noting these distinctive features, you can confidently identify Annona senegalensis in its natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",faculty of pharmacy
+Anogeissus leiocarpus,0000 1000 0010 0001,"Anogeissus leiocarpus, commonly known as African Birch or African Oak, is a tree species with distinct morphological features that aid in its identification:
+
+1. Size and Habit: African Birch is a medium to large tree that typically reaches heights of 15-30 meters (49-98 feet). It has a straight trunk with grayish-brown bark, often with flaky or peeling patches.
+
+2. Leaves: The leaves are alternate and simple, with a leathery texture. They are elliptical or oblong in shape, with a pointed tip and a smooth margin. The leaves are dark green on the upper surface and lighter beneath.
+
+3. Flowers: African Birch produces small, inconspicuous flowers that are greenish-white or cream-colored. The flowers are arranged in axillary clusters that are not highly noticeable.
+
+4. Fruits: The fruit of Anogeissus leiocarpus is a round or oval capsule that is woody in texture. The capsules contain small, winged seeds that are dispersed by wind.
+
+5. Habitat: African Birch is commonly found in savannah and woodland areas, often in dry or semi-arid regions.
+
+6. Uses: Different parts of African Birch have traditional uses. The bark is used in traditional medicine for various purposes, and the wood is valued for its hardness and durability, making it suitable for construction and carving.
+
+By observing and noting these distinctive features, you can confidently identify Anogeissus leiocarpus in its natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Unilorin Central Mosque
+Azadirachta indica,0001 0001 0000 0010,"Azadirachta indica, commonly known as Neem, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Neem is a medium-sized to large evergreen tree that can reach heights of 15-20 meters (49-66 feet). It has a rounded canopy with dense foliage.
+
+2. Bark: The bark of Azadirachta indica is grayish-brown and is often ridged and furrowed, creating a distinct texture on the trunk.
+
+3. Leaves: The leaves are alternate and compound, with each leaf comprising 9-15 leaflets. The leaflets are oval or lance-shaped, with a serrated margin and a prominent midrib. The leaves are dark green and emit a strong, bitter odor when crushed.
+
+4. Flowers: Neem produces small, white to pale yellow flowers that are fragrant. The flowers are arranged in axillary clusters.
+
+5. Fruits: The fruit of Azadirachta indica is a green, ellipsoid drupe that turns yellow when ripe. The fruit contains a single, elongated seed within.
+
+6. Uses: Neem has a variety of traditional and modern uses. Its leaves, seeds, and bark are used in medicinal, cosmetic, and agricultural applications. Neem extracts are known for their insecticidal properties.
+
+By observing and noting these distinctive features, you can confidently identify Azadirachta indica in its natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",CBT Area
+Bahunia monadra,0001 0000 1000 0000,"Bauhinia monandra, commonly known as Butterfly Flower or Orange Bauhinia, is a flowering tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Butterfly Flower is a medium-sized tree that typically reaches heights of 5-10 meters (16-33 feet). It has a spreading, umbrella-like canopy with arching branches.
+
+2. Leaves: The leaves of Bauhinia monandra are bilobed or heart-shaped, resembling a butterfly's wings. Each leaf is divided into two distinct lobes that are joined at the base, giving it a unique appearance. The leaves are alternate and green, providing an identifying feature.
+
+3. Flowers: The Butterfly Flower produces large, showy flowers that are typically orange in color, although other color variations are also possible. The flowers have five petals, with the uppermost petal often being the largest and most distinctive. The arrangement of petals resembles a butterfly in flight, hence the common name.
+
+4. Fruits: The fruit of Bauhinia monandra is a flattened, elongated pod that contains several flat seeds. The pods are green when young and turn brown as they mature.
+
+5. Habitat: Butterfly Flower is commonly found in a variety of habitats, including forests, woodlands, and gardens, often in tropical and subtropical regions.
+
+6. Ornamental Value: Due to its attractive flowers and distinctive leaves, Bauhinia monandra is often cultivated as an ornamental tree in gardens and landscapes.
+
+By observing and noting these distinctive features, you can confidently identify Butterfly Flower in its natural habitat or in cultivated settings. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",In front of the school library
+Bauhinia variagata,0001 0001 0100 0000,"Bauhinia variegata, commonly known as Orchid Tree or Camel's Foot Tree, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Orchid Tree is a medium-sized to large deciduous tree that can reach heights of 10-15 meters (33-49 feet). It has a spreading, rounded canopy with multiple branches.
+
+2. Leaves: The leaves of Bauhinia variegata are bilobed or deeply cleft, resembling a pair of camel's feet or a butterfly's wings. Each leaf is divided into two distinct lobes that are joined at the base. The lobes are oval or rounded in shape, and the leaf is green in color.
+
+3. Flowers: Orchid Tree produces large, showy flowers that are pink, purple, or white in color. The flowers have five petals, with the uppermost petal often being the largest and most distinctive. The arrangement of petals resembles an orchid, hence the common name.
+
+4. Fruits: The fruit of Bauhinia variegata is a long, flat pod that contains several flat seeds. The pods are green when young and turn brown as they mature.
+
+5. Habitat: Orchid Tree is commonly found in various habitats, including forests, woodlands, and gardens, often in tropical and subtropical regions.
+
+6. Ornamental Value: Due to its attractive flowers and distinctive leaves, Bauhinia variegata is often cultivated as an ornamental tree in gardens and landscapes.
+
+By observing and noting these distinctive features, you can confidently identify Orchid Tree in its natural habitat or in cultivated settings. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",In front of the school library
+Bligha sapida,0001 0010 0010 0010,"Blighia sapida, commonly known as Ackee, is a tropical fruit-bearing tree with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Ackee is a medium-sized to large tree that can reach heights of 10-15 meters (33-49 feet). It has a spreading, rounded canopy with dark green foliage.
+
+2. Leaves: The leaves of Blighia sapida are pinnately compound, consisting of 3-8 pairs of leaflets and a terminal leaflet. Each leaflet is oblong or lanceolate in shape, with a smooth margin. The leaves are dark green and have a shiny appearance.
+
+3. Flowers: Ackee produces small, fragrant flowers that are white to pale yellow in color. The flowers are arranged in terminal panicles at the ends of branches.
+
+4. Fruits: The most distinctive feature of Blighia sapida is its fruit, which is pear-shaped and typically yellow to red when ripe. The fruit splits open to reveal three large, shiny black seeds surrounded by a creamy white edible aril. The aril is the edible part of the fruit, but the seeds are toxic if consumed.
+
+5. Edible Use: The aril of the ripe Ackee fruit is a staple food in Jamaican cuisine and is often used to make traditional dishes like ""Ackee and Saltfish.""
+
+6. Habitat: Ackee trees are commonly found in tropical and subtropical regions, especially in lowland rainforests and coastal areas.
+
+By observing and noting these distinctive features, you can confidently identify Ackee trees in their natural habitat. However, please exercise caution and proper knowledge when handling and consuming the fruit, as the seeds are toxic if not prepared and cooked correctly. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Faculty of art
+Bridellia ferrunginea,1101 0001 0000 0001,"Bridelia ferruginea, commonly known as Red Tallow or Coastal Goldenleaf, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Red Tallow is a medium-sized to large tree that can reach heights of 10-25 meters (33-82 feet). It has a straight trunk with grayish-brown bark, often with vertical fissures as the tree matures.
+
+2. Leaves: The leaves of Bridelia ferruginea are alternate and simple, with an elliptical or lanceolate shape. The leaves are dark green on the upper surface and golden or rust-colored beneath, which is a key identifying characteristic. The leaves have a smooth margin.
+
+3. Flowers: Red Tallow produces small, inconspicuous flowers that are usually greenish-white in color. The flowers are arranged in axillary clusters along the branches.
+
+4. Fruits: The fruit of Bridelia ferruginea is a small, round drupe that turns red or orange when ripe. The drupe contains a single seed within.
+
+5. Habitat: Red Tallow is commonly found in a variety of coastal and inland habitats, including woodlands, savannahs, and riverbanks, often in tropical and subtropical regions.
+
+6. Uses: Different parts of Bridelia ferruginea have traditional uses. The oil extracted from the seeds is used in cosmetic and medicinal applications. Various parts of the tree are also used in traditional medicine practices.
+
+By observing and noting these distinctive features, you can confidently identify Red Tallow in its natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Around senate building
+Burkea africana,0000 1001 0000 0010,"Burkea africana, commonly known as Wild Seringa or African Blackwood, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Wild Seringa is a medium-sized to large tree that can reach heights of 15-30 meters (49-98 feet). It has a spreading, rounded canopy with dark green foliage.
+
+2. Bark: The bark of Burkea africana is grayish-brown and becomes rough and fissured as the tree matures, creating a distinctive texture on the trunk.
+
+3. Leaves: The leaves are alternate and compound, consisting of 3-6 pairs of leaflets and a terminal leaflet. Each leaflet is oval or elliptical in shape, with a smooth margin. The leaves are dark green and have a shiny appearance.
+
+4. Flowers: Wild Seringa produces small, inconspicuous flowers that are greenish-white or cream-colored. The flowers are arranged in terminal panicles at the ends of branches.
+
+5. Fruits: The fruit of Burkea africana is a flat, woody pod that contains several small, winged seeds. The pods are brown and have a zigzag appearance due to the way they split open.
+
+6. Habitat: Wild Seringa is commonly found in various habitats, including savannahs, woodlands, and grasslands, often in tropical and subtropical regions.
+
+7. Uses: Different parts of Burkea africana have traditional uses. The heartwood of the tree is highly valued for its dark color and durability, making it a sought-after timber for carving and woodworking.
+
+By observing and noting these distinctive features, you can confidently identify Wild Seringa in its natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Department of home economics
+Cassia fistula,0000 1101 0010 0010,"Cassia fistula, commonly known as Golden Shower Tree or Indian Laburnum, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Golden Shower Tree is a medium-sized to large tree that can reach heights of 10-20 meters (33-66 feet). It has a graceful, spreading canopy with feathery foliage.
+
+2. Leaves: The leaves of Cassia fistula are alternate and pinnately compound, consisting of 5-8 pairs of leaflets and a terminal leaflet. Each leaflet is oblong or elliptical in shape, with a smooth margin. The leaves are bright green and provide an elegant appearance.
+
+3. Flowers: Golden Shower Tree produces large, showy flowers that are typically bright yellow in color. The flowers are arranged in long, hanging clusters known as racemes that drape down from the branches.
+
+4. Fruits: The fruit of Cassia fistula is a long, cylindrical pod that is initially green and turns brown as it matures. The pod contains numerous dark brown to black seeds.
+
+5. Flowering Season: Golden Shower Tree is known for its abundant flowering during certain times of the year, depending on the local climate and growing conditions.
+
+6. Ornamental Value: Due to its striking flowers and attractive foliage, Cassia fistula is often cultivated as an ornamental tree in gardens and landscapes.
+
+7. Medicinal and Cultural Uses: Different parts of the Golden Shower Tree have traditional medicinal uses in various cultures. The tree's flowers are used in herbal remedies, and the wood is sometimes used in traditional crafts.
+
+By observing and noting these distinctive features, you can confidently identify Golden Shower Tree in its natural habitat or in cultivated settings. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Beside the school library
+Casuarina equisetofolia,0001 0000 1010 0010,"Casuarina equisetifolia, commonly known as Casuarina, Ironwood, or Australian Pine, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Casuarina equisetifolia is a medium to large tree that can reach heights of 20-35 meters (66-115 feet). It has a slender, conical or columnar shape with drooping, fern-like branches that resemble pine needles.
+
+2. Leaves: The leaves of Casuarina equisetifolia are reduced to scale-like structures that encircle the stem nodes. These scale-like structures are green and whorled around the branches, resembling the appearance of pine needles.
+
+3. Branches: The branches of Casuarina equisetifolia are jointed, similar to bamboo, and give the tree its distinctive appearance. The branch segments are verticillate, meaning they are arranged in whorls around the stem.
+
+4. Flowers: Casuarina produces inconspicuous, unisexual flowers that are arranged in small, cylindrical, woody cones known as strobili. Male and female cones are borne on separate trees.
+
+5. Fruits: The fruit of Casuarina equisetifolia is a small, woody cone that contains tiny winged seeds adapted for wind dispersal.
+
+6. Habitat: Casuarina equisetifolia is commonly found in coastal and beach environments, often growing in sandy soils near the sea.
+
+7. Uses: Casuarina is valued for its rapid growth and ability to stabilize coastal sand dunes. It is often planted for erosion control and as a windbreak in coastal areas. Additionally, the wood of Casuarina trees is used for fuel and in construction.
+
+By observing and noting these distinctive features, you can confidently identify Casuarina equisetifolia in its natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",ELT(Engineering Lecture Theatre)
+Crescenta cujeta,0001 0010 0010 0000,"Crescentia cujete, commonly known as Calabash Tree or Cujo, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Calabash Tree is a medium-sized to large tree that can reach heights of 8-15 meters (26-49 feet). It has a low, spreading canopy with thick, leathery leaves.
+
+2. Leaves: The leaves of Crescentia cujete are simple, alternate, and large. They are rounded or heart-shaped with a smooth margin. The leaves are dark green and provide an attractive appearance.
+
+3. Flowers: Calabash Tree produces large, showy flowers that are typically greenish-yellow in color. The flowers are arranged in clusters that emerge from the branches and have a unique shape resembling a pipe or tube.
+
+4. Fruits: The fruit of Crescentia cujete is a large, globular or ellipsoid gourd with a hard, woody shell. The shell is initially green and turns brown as it matures. The interior of the fruit is hollow and can be used for various purposes.
+
+5. Uses: The hard shell of the fruit is often used for crafts and containers such as bowls, cups, and musical instruments. In some cultures, the shell is used to make traditional percussion instruments known as ""maracas"" or ""guiros."" The young fruit may also be used for culinary purposes.
+
+6. Habitat: Calabash Trees are commonly found in a variety of habitats, including tropical forests, woodlands, and coastal areas, often in tropical and subtropical regions.
+
+By observing and noting these distinctive features, you can confidently identify Calabash Tree in its natural habitat or in cultivated settings. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Teak nursery
+Daniellia oliveri,0000 1001 0010 0011,"Daniellia oliveri, commonly known as Daniellia or African Copalwood, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Daniellia oliveri is a medium-sized to large tree that can reach heights of 20-30 meters (66-98 feet). It has a straight, cylindrical trunk with grayish-brown bark that is often smooth on younger trees and becomes rough and fissured on older trees.
+
+2. Leaves: The leaves of Daniellia oliveri are alternate and compound, consisting of 5-7 pairs of leaflets and a terminal leaflet. Each leaflet is oblong or elliptical in shape, with a smooth margin. The leaves are dark green and provide dense foliage.
+
+3. Flowers: Daniellia produces small, fragrant flowers that are typically yellow or cream-colored. The flowers are arranged in axillary clusters that are often densely packed.
+
+4. Fruits: The fruit of Daniellia oliveri is a flat, elliptical pod that contains several seeds. The pods are dark brown and have a distinctive shape.
+
+5. Habitat: Daniellia is commonly found in various habitats, including rainforests, woodlands, and savannahs, often in tropical and subtropical regions.
+
+6. Timber: The wood of Daniellia oliveri is valued for its hardness and durability. It is used for various purposes, including construction, furniture making, and carvings.
+
+By observing and noting these distinctive features, you can confidently identify Daniellia oliveri in its natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.","Faculty of Agriculture mosque, School library"
+Delonix regia,0000 0101 0010 1010,"Delonix regia, commonly known as Flamboyant Tree or Royal Poinciana, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Flamboyant Tree is a large tree that can reach heights of 5-12 meters (16-39 feet) or more. It has a wide-spreading canopy with feathery, fern-like foliage that provides ample shade underneath.
+
+2. Leaves: The leaves of Delonix regia are alternate and finely pinnate, meaning they are divided into many small leaflets. Each leaflet is oval or lanceolate in shape and has a smooth margin. The leaves are dark green and give the tree a lush appearance.
+
+3. Flowers: Flamboyant Tree produces large, striking flowers that are typically red or orange in color. The flowers have five unequal petals with the uppermost petal being the largest and most prominent. The flowers are arranged in terminal clusters at the ends of branches.
+
+4. Fruits: The fruit of Delonix regia is a flat, brown, woody pod that can reach lengths of 30-60 cm (12-24 inches). The pods contain several hard, dark seeds that are surrounded by a fibrous material.
+
+5. Flowering Season: Flamboyant Trees are known for their spectacular flowering display during certain times of the year, depending on the local climate and growing conditions.
+
+6. Ornamental Value: Due to its vibrant flowers and unique foliage, Delonix regia is often cultivated as an ornamental tree in gardens, parks, and urban landscapes.
+
+7. Cultural Significance: The Flamboyant Tree holds cultural significance in various regions and is the national flower of Barbados. It is also associated with festivals and celebrations in some cultures.
+
+By observing and noting these distinctive features, you can confidently identify Flamboyant Trees in their natural habitat or in cultivated settings. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",opposite Faculty of Agriculture
+Detarium microcarpum,0000 1001 0000 0010,"Detarium microcarpum, commonly known as Toddy Tree or African Locust Bean, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Toddy Tree is a medium-sized to large tree that can reach heights of 15-30 meters (49-98 feet). It has a rounded canopy with dense foliage.
+
+2. Bark: The bark of Detarium microcarpum is grayish-brown and becomes rough and deeply furrowed as the tree matures.
+
+3. Leaves: The leaves are alternate and pinnately compound, consisting of 5-9 pairs of leaflets and a terminal leaflet. Each leaflet is oval or elliptical in shape, with a smooth margin. The leaves are dark green and provide dense foliage.
+
+4. Flowers: Toddy Tree produces small, inconspicuous flowers that are typically greenish-white in color. The flowers are arranged in long, hanging racemes that emerge from the branches.
+
+5. Fruits: The fruit of Detarium microcarpum is a large, flattened, woody pod that contains several seeds embedded in a sweet, edible pulp.
+
+6. Edible Use: The sweet pulp surrounding the seeds is consumed and is often used to make a fermented beverage known as ""palm wine"" or ""toddy."" The seeds are also used in traditional culinary preparations in some regions.
+
+7. Medicinal and Cultural Uses: Different parts of the Toddy Tree have traditional medicinal uses in various cultures. The tree is also used for its timber and fodder for livestock.
+
+By observing and noting these distinctive features, you can confidently identify Toddy Trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",In front of professorial suite at the faculty of Agriculture
+Entanda africana,0000 0100 0010 1001,"Entandrophragma angolense, commonly known as African Mahogany or Entandrophragma, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: African Mahogany is a large tree that can reach heights of 30-45 meters (98-148 feet). It has a straight, tall trunk with grayish to reddish-brown bark that is often smooth on younger trees and becomes rough and fissured on older trees.
+
+2. Leaves: The leaves of Entandrophragma angolense are alternate and compound, consisting of 5-9 pairs of leaflets and a terminal leaflet. Each leaflet is oblong or elliptical in shape, with a smooth margin. The leaves are dark green and provide dense foliage.
+
+3. Flowers: African Mahogany produces small, inconspicuous flowers that are typically cream-colored or yellowish. The flowers are arranged in terminal panicles that emerge from the branches.
+
+4. Fruits: The fruit of Entandrophragma angolense is a large, woody capsule that contains numerous winged seeds. The capsules split open to release the seeds, which are adapted for wind dispersal.
+
+5. Timber: The wood of African Mahogany is highly prized for its attractive appearance, durability, and workability. It is used in fine furniture making, cabinetry, and veneer, among other applications.
+
+6. Habitat: African Mahogany is commonly found in various habitats, including rainforests, woodlands, and savannahs, often in tropical and subtropical regions.
+
+By observing and noting these distinctive features, you can confidently identify African Mahogany trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.","Unilorin zoo, Path leading to ile-apa community"
+Eucalyptus camendulensis,0000 1001 1010 0001,"Eucalyptus camaldulensis, commonly known as Red River Gum, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Red River Gum is a large tree that can reach heights of 20-45 meters (66-148 feet). It has a straight, tall trunk with grayish to reddish-brown bark that is often peeling in strips.
+
+2. Leaves: The leaves of Eucalyptus camaldulensis are alternate and simple, with a lanceolate or sickle-shaped form. The leaves are leathery and gray-green in color. They are arranged vertically to reduce water loss through transpiration.
+
+3. Flowers: Red River Gum produces small, white or cream-colored flowers that are arranged in clusters known as umbels. The flowers have numerous stamens that give them a distinctive appearance.
+
+4. Fruits: The fruit of Eucalyptus camaldulensis is a woody, bell-shaped capsule known as a gumnut. The gumnuts contain numerous small seeds and are often persistent on the tree.
+
+5. Habitat: Red River Gum is commonly found in a variety of habitats, including riverbanks, floodplains, and wetlands, often in temperate and subtropical regions.
+
+6. Cultural Significance: Red River Gum holds cultural significance for Indigenous Australian communities and has been used for various purposes, including traditional medicine and tool-making.
+
+7. Uses: The wood of Eucalyptus camaldulensis is highly valued for its hardness and durability. It is used in construction, furniture making, and firewood.
+
+By observing and noting these distinctive features, you can confidently identify Red River Gum trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Motion Ground
+Ficus exasperata,0101 0001 0100 0001,"Ficus exasperata, commonly known as Sandpaper Fig or Knobbly Fig, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Sandpaper Fig is a medium-sized to large tree that can reach heights of 10-20 meters (33-66 feet). It has a rounded canopy with dense foliage.
+
+2. Leaves: The leaves of Ficus exasperata are alternate and simple, with a oval or elliptical shape. The leaves have a distinctive sandpapery texture on both sides, which gives the tree its common name. The leaves are dark green and may have a slightly leathery feel.
+
+3. Fruits: The fruit of Sandpaper Fig is a small, round fig that is typically green when young and turns purple-black when ripe. The figs are edible and are often consumed by birds and other wildlife.
+
+4. Habitat: Sandpaper Fig is commonly found in various habitats, including rainforests, woodlands, and riparian areas, often in tropical and subtropical regions.
+
+5. Growth Habit: The branches of Ficus exasperata often have distinctive knobbly growths or galls along the stems, adding to its unique appearance.
+
+6. Ecological Importance: Sandpaper Fig is an important tree in many ecosystems as it provides food and shelter for various wildlife species.
+
+By observing and noting these distinctive features, you can confidently identify Sandpaper Fig trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Opposite Unilorin Microfinance Bank
+Ficus sycomorous,0101 0001 0110 0001,"Ficus sycomorus, commonly known as the Sycamore Fig, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Sycamore Fig is a large tree that can reach heights of 10-20 meters (33-66 feet) or more. It has a rounded canopy with dense, spreading foliage.
+
+2. Leaves: The leaves of Ficus sycomorus are alternate and simple, with a rough, sandpapery texture on the upper surface. The leaves are heart-shaped with a pointed tip and prominent veins. They are dark green and provide ample shade.
+
+3. Fruits: The fruit of Sycamore Fig is a distinctive, pear-shaped fig that is typically green when young and turns yellow or orange when ripe. The figs are often clustered along the branches and have a unique appearance.
+
+4. Habitat: Sycamore Fig is commonly found in a variety of habitats, including riparian zones, riverbanks, and wetlands, often in tropical and subtropical regions.
+
+5. Ecological Importance: Sycamore Fig trees play a crucial role in supporting various wildlife species by providing food in the form of figs and shelter in their branches.
+
+6. Cultural Significance: The Sycamore Fig has cultural and historical significance in various regions and is mentioned in ancient texts and scriptures.
+
+By observing and noting these distinctive features, you can confidently identify Sycamore Fig trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",In front of NOC(Network Operations center)
+Ficus thonnigi,0101 0001 0110 0101,"Ficus thonningii, commonly known as the Thonning's Fig or Bantu Fig, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Thonning's Fig is a medium-sized to large tree that can reach heights of 15-25 meters (49-82 feet). It has a rounded to spreading canopy with dense foliage.
+
+2. Leaves: The leaves of Ficus thonningii are alternate and simple, with a smooth and glossy texture on the upper surface. The leaves are elliptical or ovate in shape with a pointed tip and a smooth margin. They are dark green and provide ample shade.
+
+3. Fruits: The fruit of Thonning's Fig is a small, round fig that turns from green to yellow when ripe. The figs are often clustered along the branches and have a distinctive appearance.
+
+4. Habitat: Thonning's Fig is commonly found in a variety of habitats, including forests, woodlands, and savannahs, often in tropical and subtropical regions.
+
+5. Ecological Importance: Thonning's Fig trees are ecologically significant as they provide food in the form of figs for various wildlife species, including birds and mammals.
+
+6. Traditional Uses: In some cultures, the fruits and leaves of the Thonning's Fig are used for medicinal and culinary purposes.
+
+By observing and noting these distinctive features, you can confidently identify Thonning's Fig trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Opposite ELT(Engineering lecture theatre)
+Gliricida sepium,0000 1101 0010 0010,"Gliricidia sepium, commonly known as Gliricidia, Quickstick, or Mexican Lilac, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Gliricidia sepium is a small to medium-sized tree that can reach heights of 5-15 meters (16-49 feet). It has a spreading, bushy canopy with feathery foliage.
+
+2. Leaves: The leaves of Gliricidia sepium are alternate and compound, consisting of 5-7 pairs of leaflets and a terminal leaflet. Each leaflet is oblong or lanceolate in shape, with a smooth margin. The leaves are bright green and provide an attractive appearance.
+
+3. Flowers: Gliricidia produces showy, pink to purple flowers that are arranged in terminal racemes at the ends of branches. The flowers have a distinct butterfly-like shape with five petals.
+
+4. Fruits: The fruit of Gliricidia sepium is a flat, elongated pod that contains several seeds. The pods are green when young and turn brown as they mature.
+
+5. Uses: Gliricidia is valued for its fast growth and various uses. It is often planted for soil improvement, erosion control, and as a shade tree in agroforestry systems. The leaves and young pods are used as forage for livestock, and the wood can be used for firewood and crafts.
+
+6. Medicinal and Cultural Uses: Different parts of the Gliricidia tree have traditional medicinal uses in various cultures.
+
+By observing and noting these distinctive features, you can confidently identify Gliricidia sepium in its natural habitat or in cultivated settings. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",At the back of Faculty of Agriculture
+Gmelina arborea,0001 0101 0110 0101,"Gmelina arborea, commonly known as Gmelina or White Teak, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Gmelina arborea is a medium to large tree that can reach heights of 20-35 meters (66-115 feet). It has a straight, cylindrical trunk with grayish-brown bark that becomes rough and fissured on older trees.
+
+2. Leaves: The leaves of Gmelina arborea are opposite and simple, with a long oval or elliptical shape. The leaves have a smooth margin and are dark green in color. They are arranged in an alternate phyllotaxy along the branches.
+
+3. Flowers: Gmelina produces showy, fragrant flowers that are typically yellow or orange in color. The flowers are arranged in terminal panicles at the ends of branches.
+
+4. Fruits: The fruit of Gmelina arborea is a capsule that contains numerous winged seeds. The capsules are green when young and turn brown as they mature.
+
+5. Timber: The wood of Gmelina arborea is highly valued for its lightweight, durable, and versatile properties. It is used for various purposes, including furniture making, construction, and paper production.
+
+6. Uses: Gmelina is often planted for afforestation, agroforestry, and reforestation purposes. It can provide shade and shelter to other crops and is considered a valuable tree for sustainable land management.
+
+7. Medicinal and Traditional Uses: Different parts of the Gmelina tree have traditional medicinal uses in various cultures.
+
+By observing and noting these distinctive features, you can confidently identify Gmelina arborea in its natural habitat or in cultivated settings. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",School park
+Hildergardia barteri,0001 0001 0100 0101,"Hildegardia barteri, commonly known as African Whitewood or Lagos Mahogany, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: African Whitewood is a large tree that can reach heights of 30-45 meters (98-148 feet). It has a straight, tall trunk with grayish-brown bark that may become rough and fissured on older trees.
+
+2. Leaves: The leaves of Hildegardia barteri are alternate and compound, consisting of 5-7 pairs of leaflets and a terminal leaflet. Each leaflet is lanceolate or oblong in shape, with a smooth margin. The leaves are dark green and provide dense foliage.
+
+3. Flowers: African Whitewood produces large, fragrant flowers that are typically white to pale pink in color. The flowers are arranged in terminal panicles that emerge from the branches.
+
+4. Fruits: The fruit of Hildegardia barteri is a large, woody capsule that contains several seeds. The capsules split open to release the seeds.
+
+5. Timber: The wood of African Whitewood is valued for its lightweight and durable properties. It is used for various purposes, including construction, furniture making, and carving.
+
+6. Habitat: African Whitewood is commonly found in various habitats, including rainforests, woodlands, and savannahs, often in tropical and subtropical regions.
+
+By observing and noting these distinctive features, you can confidently identify African Whitewood trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",entrance to french department
+Hura creiptans,1011 0001 0110 0100,"Hura crepitans, commonly known as the Sandbox Tree or Dynamite Tree, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: The Sandbox Tree is a large tree that can reach heights of 25-40 meters (82-131 feet). It has a straight, tall trunk with grayish-brown bark that becomes ridged and fissured with age.
+
+2. Leaves: The leaves of Hura crepitans are alternate and simple, with a large, palmate shape resembling the fingers of a hand. The leaves are composed of 5-9 lobes, each with a smooth margin. The leaves are dark green and provide a dense canopy.
+
+3. Flowers: The Sandbox Tree produces small, greenish-white flowers that are arranged in clusters known as panicles at the ends of branches.
+
+4. Fruits: The most distinctive feature of the Sandbox Tree is its unique fruit structure. The fruit is a large, spiky capsule that contains numerous explosive seeds. When the fruit matures, it dries and splits open with a loud explosive sound, ejecting the seeds at high speeds. This is how the tree gets its common name ""Dynamite Tree.""
+
+5. Habitat: The Sandbox Tree is commonly found in a variety of habitats, including tropical rainforests and other moist environments in Central and South America.
+
+6. Uses: While the Sandbox Tree has certain traditional uses, such as using the latex as a fish poison or using the bark for medicinal purposes, it is known more for its ecological role and the explosive dispersal of its seeds.
+
+By observing and noting these distinctive features, you can confidently identify the Sandbox Tree in its natural habitat. However, please exercise caution and avoid close contact with the exploding fruits, as they can cause injury due to their forceful ejection of seeds. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.","Faculty of Agriculture mosque, motion ground"
+Hymenocardia acida,0001 0010 0010 0010,"Hymenocardia acida, commonly known as African Pear or Sour Leaf, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: African Pear is a medium-sized tree that can reach heights of 8-20 meters (26-66 feet). It has a rounded canopy with dense foliage.
+
+2. Leaves: The leaves of Hymenocardia acida are alternate and simple, with a rounded or heart-shaped form. The leaves have a distinctive sour taste when chewed. They are dark green and provide a lush appearance.
+
+3. Flowers: African Pear produces small, inconspicuous flowers that are typically greenish-yellow in color. The flowers are arranged in axillary clusters that emerge from the branches.
+
+4. Fruits: The fruit of Hymenocardia acida is a small, pear-shaped drupe that turns from green to yellow or orange when ripe. The fruits have a distinct sour taste and are often used for their culinary and medicinal properties.
+
+5. Edible and Medicinal Uses: The sour leaves and fruits of African Pear are used in traditional cuisine and medicine in various cultures. They are used to prepare soups, sauces, and beverages, as well as for their potential health benefits.
+
+6. Habitat: African Pear is commonly found in a variety of habitats, including woodlands, savannahs, and riverbanks, often in tropical and subtropical regions.
+
+By observing and noting these distinctive features, you can confidently identify African Pear trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",path leading to ile-apa community
+Isoberlina doka,0000 1101 0010 0000,"Isoberlinia doka, commonly known as African Blackwood or Black Ironwood, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: African Blackwood is a medium to large-sized tree that can reach heights of 15-30 meters (49-98 feet). It has a straight, tall trunk with grayish-brown to dark brown bark that becomes rough and fissured with age.
+
+2. Leaves: The leaves of Isoberlinia doka are alternate and compound, consisting of multiple pairs of leaflets and a terminal leaflet. Each leaflet is small, elliptical in shape with a smooth margin. The leaves are dark green and provide a lush appearance.
+
+3. Flowers: African Blackwood produces small, yellowish-white flowers that are arranged in terminal panicles at the ends of branches.
+
+4. Fruits: The fruit of Isoberlinia doka is a legume that contains seeds. The legumes are elongated and flat and turn brown as they mature.
+
+5. Timber: African Blackwood is highly valued for its hard, dense, and durable wood, which is often used for high-quality musical instruments (such as clarinets and oboes), fine furniture, and craftsmanship.
+
+6. Habitat: African Blackwood is commonly found in a variety of habitats, including dry savannahs and other arid regions.
+
+By observing and noting these distinctive features, you can confidently identify African Blackwood trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.","beside ELH(engineering lecture hall), Path leading to ile-apa community"
+Jatropha carcus,0011 0001 0100 0101,"Jatropha curcas, commonly known as Physic Nut or Barbados Nut, is a plant species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Jatropha curcas is a small to medium-sized shrub or small tree that can reach heights of 2-6 meters (6.5-20 feet). It has a multi-branched growth habit.
+
+2. Leaves: The leaves of Jatropha curcas are alternate and palmate, usually with three to five deeply lobed leaflets. The leaves are green and have a distinctive smooth or slightly wavy margin.
+
+3. Flowers: The flowers of Jatropha curcas are small and clustered at the tips of the branches. They are typically green or yellowish-green in color.
+
+4. Fruits: The fruit of Jatropha curcas is a capsule that contains seeds. The seeds are large and ovoid in shape.
+
+5. Seeds and Oil: Jatropha curcas is known for its oil-rich seeds, which contain vegetable oil that can be used for various purposes, including biodiesel production.
+
+6. Habitat: Jatropha curcas is commonly found in a variety of habitats, including tropical and subtropical regions. It is often cultivated for its oil-bearing seeds.
+
+7. Economic Uses: The seeds of Jatropha curcas are a source of biodiesel and vegetable oil. The plant has been studied for its potential in sustainable energy and rural development projects.
+
+8. Caution: While Jatropha curcas has economic potential for its oil, it also contains toxic compounds and should be handled with caution. The seeds and other parts of the plant can be poisonous if ingested.
+
+By observing and noting these distinctive features, you can confidently identify Jatropha curcas in its natural habitat or in cultivated settings. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Faculty of Agriculture
+Lophira lanceolata,0101 0000 0010 0100,"Lophira lanceolata, commonly known as Iroko or African Teak, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Iroko is a large tree that can reach heights of 20-50 meters (66-164 feet). It has a straight, tall trunk with grayish-brown bark that becomes rough and fissured on older trees.
+
+2. Leaves: The leaves of Lophira lanceolata are alternate and simple, with a lanceolate or elliptical shape. The leaves have a smooth margin and are dark green in color. They provide a dense canopy.
+
+3. Flowers: Iroko produces small, inconspicuous flowers that are typically greenish-yellow in color. The flowers are arranged in axillary clusters that emerge from the branches.
+
+4. Fruits: The fruit of Lophira lanceolata is a large, woody capsule that contains winged seeds. The capsules split open to release the seeds.
+
+5. Timber: Iroko wood is highly valued for its durability, stability, and resistance to pests and decay. It is used in construction, furniture making, and boat building, among other applications.
+
+6. Habitat: Iroko is commonly found in a variety of habitats, including rainforests, woodlands, and savannahs, often in tropical regions.
+
+By observing and noting these distinctive features, you can confidently identify Iroko trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",path leading to ile-apa community
+Nauclea latifolia,0001 0100 0010 0000,"Nauclea latifolia, commonly known as African Peach or Nkul Bantu, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: African Peach is a medium to large-sized tree that can reach heights of 20-35 meters (66-115 feet). It has a straight, tall trunk with grayish-brown bark that may become rough and fissured on older trees.
+
+2. Leaves: The leaves of Nauclea latifolia are opposite and simple, with a large, oval to elliptical shape. The leaves have a smooth margin and are dark green in color. They provide a dense canopy.
+
+3. Flowers: African Peach produces large, showy flowers that are typically white to cream-colored with a yellow center. The flowers are arranged in terminal clusters that emerge from the branches.
+
+4. Fruits: The fruit of Nauclea latifolia is a large, round drupe that turns from green to orange when ripe. The flesh of the fruit is sweet and edible, giving rise to the common name ""African Peach.""
+
+5. Uses: African Peach has a variety of uses. The fruit is consumed as a food source in some regions, and the wood is used for construction, carpentry, and crafts. Different parts of the tree are also used in traditional medicine.
+
+6. Habitat: African Peach is commonly found in a variety of habitats, including rainforests, woodlands, and savannahs, often in tropical and subtropical regions.
+
+By observing and noting these distinctive features, you can confidently identify African Peach trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",After Teak plantation
+Newbouldia laevis,0000 1110 0010 0110,"Newbouldia laevis, commonly known as African Border Tree or Tree of Life, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: African Border Tree is a medium to large-sized tree that can reach heights of 10-20 meters (33-66 feet). It has a straight, tall trunk with grayish-brown bark that becomes rough and fissured on older trees.
+
+2. Leaves: The leaves of Newbouldia laevis are opposite and simple, with a large, ovate to heart-shaped form. The leaves have a smooth margin and are dark green in color. They provide a dense canopy.
+
+3. Flowers: African Border Tree produces large, showy flowers that are typically purple to lilac in color. The flowers are arranged in terminal clusters that emerge from the branches.
+
+4. Fruits: The fruit of Newbouldia laevis is a large, woody capsule that contains numerous winged seeds. The capsules split open to release the seeds.
+
+5. Traditional Uses: African Border Tree is valued for its various traditional uses. Different parts of the tree, including the leaves and bark, are used in medicinal preparations in various cultures.
+
+6. Habitat: African Border Tree is commonly found in a variety of habitats, including forests, woodlands, and savannahs, often in tropical and subtropical regions.
+
+By observing and noting these distinctive features, you can confidently identify African Border Tree in its natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",faculty of pharmacy
+Parinari polyandra,0001 0010 0010 0000,"Parinari polyandra, commonly known as African Walnut or Chrysophyllum, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: African Walnut is a medium to large-sized tree that can reach heights of 20-30 meters (66-98 feet). It has a straight, tall trunk with grayish-brown bark that may become rough and fissured on older trees.
+
+2. Leaves: The leaves of Parinari polyandra are alternate and simple, with a large, elliptical or ovate shape. The leaves have a smooth margin and are dark green in color. They provide a dense canopy.
+
+3. Flowers: African Walnut produces small, inconspicuous flowers that are typically greenish-white in color. The flowers are arranged in axillary clusters that emerge from the branches.
+
+4. Fruits: The fruit of Parinari polyandra is a large, round drupe that turns from green to brown when ripe. The fruit contains a nut that is often consumed as a food source.
+
+5. Edible Uses: The nuts of African Walnut are consumed as a food source in some regions. They are rich in protein and nutrients.
+
+6. Habitat: African Walnut is commonly found in a variety of habitats, including rainforests, woodlands, and savannahs, often in tropical and subtropical regions.
+
+By observing and noting these distinctive features, you can confidently identify African Walnut trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Student affairs
+Parkia biglobosa(clappertoniana),0000 0001 0010 1011,"Parkia biglobosa, commonly known as African Locust Bean or Neem Tree, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: African Locust Bean is a medium to large-sized tree that can reach heights of 15-25 meters (49-82 feet). It has a straight, tall trunk with grayish-brown bark that becomes rough and fissured on older trees.
+
+2. Leaves: The leaves of Parkia biglobosa are alternate and compound, with a large and elongated shape. The leaves are feathery in appearance and composed of several pairs of leaflets.
+
+3. Flowers: African Locust Bean produces small, fragrant flowers that are typically yellowish-white in color. The flowers are arranged in pendulous clusters that emerge from the branches.
+
+4. Fruits: The fruit of Parkia biglobosa is a large, elongated pod that contains several seeds. The pods are dark brown and have a characteristic twisted appearance.
+
+5. Edible and Nutritional Uses: The seeds of African Locust Bean are used as a food source in various culinary dishes. They are rich in protein and nutrients and play a significant role in traditional diets.
+
+6. Traditional and Medicinal Uses: Different parts of the African Locust Bean tree, including the seeds and leaves, are used in traditional medicine for their potential health benefits.
+
+7. Habitat: African Locust Bean is commonly found in a variety of habitats, including savannahs, woodlands, and dry regions, often in tropical and subtropical areas.
+
+By observing and noting these distinctive features, you can confidently identify African Locust Bean trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",beside ELH(engineering lecture hall)
+Pelthophorum pterocarpum,0000 0101 0010 1010,"Peltophorum pterocarpum, commonly known as Copperpod, Golden Flamboyant, or Purple Trumpet Tree, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Copperpod is a medium to large-sized tree that can reach heights of 15-25 meters (49-82 feet). It has a straight, tall trunk with grayish-brown bark that becomes rough and fissured on older trees.
+
+2. Leaves: The leaves of Peltophorum pterocarpum are alternate and compound, with a pinnate arrangement of leaflets. Each leaflet is oval or elliptical in shape, with a smooth margin. The leaves are dark green and provide a dense canopy.
+
+3. Flowers: Copperpod produces large, showy flowers that are typically yellow to orange in color. The flowers are arranged in terminal clusters that emerge from the branches.
+
+4. Fruits: The fruit of Peltophorum pterocarpum is a long, flat pod that contains several seeds. The pods turn brown as they mature and eventually split open to release the seeds.
+
+5. Ornamental and Shade Tree: Copperpod is widely planted as an ornamental tree for its vibrant flowers and attractive foliage. It also provides shade in urban and landscaped areas.
+
+6. Habitat: Copperpod is commonly found in a variety of habitats, including forests, urban areas, and along roadsides, often in tropical and subtropical regions.
+
+By observing and noting these distinctive features, you can confidently identify Copperpod trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.","Block 2, Unilorin chapel"
+Piliostigma thonningii,0001 0001 0100 0001,"Piliostigma thonningii, commonly known as African Sandalwood or Camel's Foot Tree, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: African Sandalwood is a medium-sized tree that can reach heights of 10-20 meters (33-66 feet). It has a short, crooked trunk with rough, deeply furrowed bark.
+
+2. Leaves: The leaves of Piliostigma thonningii are alternate and compound, with a pinnate arrangement of leaflets. Each leaflet is oval or elliptical in shape, with a smooth margin. The leaves are green and provide a dense canopy.
+
+3. Flowers: African Sandalwood produces small, pink to reddish flowers that are arranged in drooping clusters at the ends of branches.
+
+4. Fruits: The fruit of Piliostigma thonningii is a flat, woody pod that resembles a camel's foot, giving rise to one of its common names. The pods contain several seeds and split open when mature.
+
+5. Timber and Uses: The wood of African Sandalwood is sometimes used for carving and construction. The pods and seeds have traditional uses in some cultures, such as for dye production and medicinal purposes.
+
+6. Habitat: African Sandalwood is commonly found in a variety of habitats, including woodlands, savannahs, and dry regions, often in tropical and subtropical areas.
+
+By observing and noting these distinctive features, you can confidently identify African Sandalwood trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Block 4
+Plumeria alba,0101 0010 0010 0000,"Plumeria alba, commonly known as White Frangipani or West Indian Jasmine, is a flowering tree or shrub with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: White Frangipani is a small to medium-sized tree or shrub that can reach heights of 3-8 meters (10-26 feet). It has a short, irregularly shaped trunk with smooth, grayish bark.
+
+2. Leaves: The leaves of Plumeria alba are alternate and large, with a distinctive oblong or elliptical shape. The leaves are dark green and often have a cluster of leaves at the tip of a branch.
+
+3. Flowers: White Frangipani produces beautiful, fragrant flowers that are typically white in color. The flowers have a distinctive five-petal shape and a yellow center. They are arranged in terminal clusters at the ends of branches.
+
+4. Fragrance: The flowers of Plumeria alba are known for their sweet and pleasant fragrance, which is particularly prominent in the evening.
+
+5. Habitat and Cultivation: White Frangipani is commonly grown as an ornamental plant in gardens, parks, and landscapes. It is also a popular tree in tropical and subtropical regions.
+
+6. Medicinal and Cultural Uses: In some cultures, various parts of the Plumeria alba plant are used for medicinal purposes, such as treating skin conditions and respiratory issues. It also holds cultural significance in traditional practices.
+
+By observing and noting these distinctive features, you can confidently identify White Frangipani trees or shrubs. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Opposite SLT(science lecture theatre)
+Plumeria rubra,0101 0010 0011 0100,"Plumeria rubra, commonly known as Red Frangipani or Temple Tree, is a flowering tree or shrub with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Red Frangipani is a small to medium-sized tree or shrub that can reach heights of 3-8 meters (10-26 feet). It has a short, irregularly shaped trunk with smooth, grayish bark.
+
+2. Leaves: The leaves of Plumeria rubra are alternate and large, with a distinctive oblong or elliptical shape. The leaves are dark green and often have a cluster of leaves at the tip of a branch.
+
+3. Flowers: Red Frangipani produces beautiful, fragrant flowers that come in a variety of colors, including shades of red, pink, orange, and white. The flowers have a distinctive five-petal shape and a yellow center. They are arranged in terminal clusters at the ends of branches.
+
+4. Fragrance: The flowers of Plumeria rubra are known for their sweet and pleasant fragrance, which is particularly prominent in the evening.
+
+5. Habitat and Cultivation: Red Frangipani is commonly grown as an ornamental plant in gardens, parks, and landscapes. It is also a popular tree in tropical and subtropical regions.
+
+6. Medicinal and Cultural Uses: Similar to other Plumeria species, various parts of Plumeria rubra are sometimes used for medicinal purposes in traditional practices.
+
+By observing and noting these distinctive features, you can confidently identify Red Frangipani trees or shrubs. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Opposite SLT(science lecture theatre)
+Polyaltha longifolia,0001 0001 0010 0010,"Polyalthia longifolia, commonly known as False Ashoka, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: False Ashoka is a medium to large-sized evergreen tree that can reach heights of 15-20 meters (49-66 feet). It has a straight, cylindrical trunk with smooth, grayish-brown bark.
+
+2. Leaves: The leaves of Polyalthia longifolia are alternate and simple, with a long and lanceolate shape. The leaves are dark green and have a prominent midrib. They provide a dense canopy.
+
+3. Flowers: False Ashoka produces small, greenish-yellow flowers that are arranged in axillary clusters at the ends of branches. The flowers are not as showy as those of some other tree species.
+
+4. Fruits: The fruit of Polyalthia longifolia is a small, cylindrical capsule that contains numerous seeds. The capsules turn from green to brown as they mature.
+
+5. Habitat and Cultivation: False Ashoka is commonly grown as an ornamental tree in gardens, parks, and urban landscapes. It is also found in natural habitats, including forests and woodlands.
+
+6. Medicinal and Cultural Uses: Different parts of Polyalthia longifolia have been used in traditional medicine for various purposes, such as treating fever and digestive issues.
+
+By observing and noting these distinctive features, you can confidently identify False Ashoka trees in their natural habitat or cultivated settings. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Walkway
+Prosopis africana,0000 0101 0010 1011,"Prosopis africana, commonly known as African Mesquite or Iron Tree, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: African Mesquite is a medium to large-sized tree that can reach heights of 15-30 meters (49-98 feet). It has a straight, tall trunk with grayish-brown bark that may become rough and fissured on older trees.
+
+2. Leaves: The leaves of Prosopis africana are alternate and compound, with a pinnate arrangement of leaflets. Each leaflet is small, oval, and wavy-edged. The leaves provide a feathery appearance.
+
+3. Flowers: African Mesquite produces small, inconspicuous flowers that are typically greenish-yellow in color. The flowers are arranged in long, dense spikes at the ends of branches.
+
+4. Fruits: The fruit of Prosopis africana is a pod that is flat, elongated, and curved. The pods contain seeds that are dispersed by animals.
+
+5. Wood and Uses: The wood of African Mesquite is known for its hardness and durability. It has various uses, including construction, furniture making, and fuelwood.
+
+6. Habitat: African Mesquite is commonly found in a variety of habitats, including woodlands, savannahs, and dry regions, often in tropical and subtropical areas.
+
+By observing and noting these distinctive features, you can confidently identify African Mesquite trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.","Faculty of Agriculture,motion ground"
+Pterocarpus erinaceus,0000 1010 0010 0010,"Pterocarpus erinaceus, commonly known as Saharan Rosewood or Karité, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Saharan Rosewood is a medium to large-sized tree that can reach heights of 15-30 meters (49-98 feet). It has a straight, tall trunk with grayish-brown bark that becomes rough and fissured on older trees.
+
+2. Leaves: The leaves of Pterocarpus erinaceus are alternate and compound, with a pinnate arrangement of leaflets. Each leaflet is small, oval, and wavy-edged. The leaves provide a feathery appearance.
+
+3. Flowers: Saharan Rosewood produces small, reddish flowers that are arranged in elongated clusters at the ends of branches. The flowers are often grouped in dense inflorescences.
+
+4. Fruits: The fruit of Pterocarpus erinaceus is a flat, winged pod that contains seeds. The pods are distinctive with their winged edges.
+
+5. Timber and Uses: The wood of Saharan Rosewood is highly valued for its beautiful reddish-brown color and is used in fine furniture making, carvings, and crafts. It is also known for its resistance to termites.
+
+6. Habitat: Saharan Rosewood is commonly found in a variety of habitats, including dry woodlands, savannahs, and desert margins, often in arid regions.
+
+By observing and noting these distinctive features, you can confidently identify Saharan Rosewood trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Beside ELH
+Pterocarpus osun,0000 1001 0010 0010,"Pterocarpus osun is commonly known as Osun or Camwood, and it is a species of tree with significant cultural and economic importance in certain regions. It is a well-known tree in West Africa, particularly in Nigeria, where it holds cultural and traditional significance.
+
+Here are some key characteristics and information about Pterocarpus osun:
+
+1. Size and Habit: Osun is a medium-sized deciduous tree that can reach heights of 10-20 meters (33-66 feet). It has a distinctive straight, cylindrical trunk with grayish-brown bark that may become rough and fissured on older trees.
+
+2. Leaves: The leaves of Pterocarpus osun are alternate and pinnate, composed of several oval to elliptical leaflets. Each leaflet has a smooth margin. The leaves provide a feathery appearance.
+
+3. Flowers: Osun produces small, yellowish flowers that are arranged in compact clusters at the ends of branches. The flowers may not be as showy as those of some other species.
+
+4. Heartwood and Uses: The heartwood of Osun tree is highly valued for its deep reddish or orange color. It is used traditionally for dyeing fabrics and is a prominent ingredient in various cultural and religious practices.
+
+5. Cultural Significance: Osun (Camwood) is widely used in traditional ceremonies, particularly in Yoruba culture in Nigeria, where it is associated with rituals, art, and cultural expressions.
+
+6. Habitat: Osun trees are commonly found in woodlands, savannahs, and open areas in tropical and subtropical regions of West Africa.
+
+Please note that while the above information provides a general overview of Pterocarpus osun, for accurate identification and to learn more about this species, especially its cultural significance, consulting local experts, cultural historians, or using region-specific resources is highly recommended.",Comsit
+Securidaca longepeduncuata,0000 1000 0010 0010,"Securidaca longepedunculata, commonly known as Violet Tree or Lavender Tree, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Violet Tree is a medium to large-sized deciduous tree that can reach heights of 15-25 meters (49-82 feet). It has a straight, tall trunk with grayish-brown bark that may become rough and fissured on older trees.
+
+2. Leaves: The leaves of Securidaca longepedunculata are alternate and pinnate, composed of several oval to lanceolate leaflets. Each leaflet has a smooth margin. The leaves provide a feathery appearance.
+
+3. Flowers: Violet Tree produces small, violet to lavender-colored flowers that are arranged in long, pendulous racemes at the ends of branches. The flowers have a unique and attractive appearance.
+
+4. Fruits: The fruit of Securidaca longepedunculata is a flat, elongated pod that contains seeds. The pods are typically brown and split open to release the seeds.
+
+5. Medicinal Uses: Different parts of Violet Tree have been used in traditional medicine for various purposes, including treatment of infections, fever, and digestive issues.
+
+6. Habitat: Violet Tree is commonly found in a variety of habitats, including woodlands, savannahs, and open areas, often in tropical and subtropical regions.
+
+By observing and noting these distinctive features, you can confidently identify Violet Tree in its natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",faculty of pharmacy
+Spondias mombin,0001 0001 0010 0010,"Spondias mombin, commonly known as Hog Plum, Yellow Mombin, or Jobo, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Hog Plum is a medium-sized tree that can reach heights of 10-20 meters (33-66 feet). It has a rounded canopy with thick, green foliage.
+
+2. Leaves: The leaves of Spondias mombin are alternate and pinnate, composed of several oval to lanceolate leaflets. The leaflets are dark green and have a smooth margin.
+
+3. Flowers: Hog Plum produces small, greenish-white flowers that are arranged in terminal panicles at the ends of branches. The flowers are often not very showy.
+
+4. Fruits: The fruit of Spondias mombin is a drupaceous fruit that is oval or elongated. The fruit is usually yellow when ripe and has a thin, edible skin covering the juicy pulp.
+
+5. Edible Uses: The fruit of Hog Plum is edible and is enjoyed for its sweet and tangy flavor. It is used in various culinary preparations, including jams, jellies, and beverages.
+
+6. Habitat: Hog Plum is commonly found in a variety of habitats, including forests, woodlands, and open areas, often in tropical and subtropical regions.
+
+7. Medicinal Uses: Different parts of the Hog Plum tree have been used in traditional medicine for various purposes, including treating diarrhea, skin issues, and digestive problems.
+
+By observing and noting these distinctive features, you can confidently identify Hog Plum trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Teak nursery
+Stereospermum kunthianum,0000 1111 0010 0010,"Stereospermum kunthianum, commonly known as Pink Jacaranda or Purple Trumpet Tree, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Pink Jacaranda is a medium to large-sized tree that can reach heights of 15-30 meters (49-98 feet). It has a straight, tall trunk with grayish-brown bark that may become rough and fissured on older trees.
+
+2. Leaves: The leaves of Stereospermum kunthianum are opposite and pinnate, composed of several oval to lanceolate leaflets. The leaves are dark green and provide a feathery appearance.
+
+3. Flowers: Pink Jacaranda produces large, showy flowers that are typically pink to purple in color. The flowers have a distinctive trumpet shape and are arranged in terminal clusters at the ends of branches.
+
+4. Fruits: The fruit of Stereospermum kunthianum is a capsule that contains numerous winged seeds. The capsules split open when mature, releasing the seeds.
+
+5. Ornamental and Shade Tree: Pink Jacaranda is widely planted as an ornamental tree for its vibrant flowers and attractive foliage. It also provides shade in urban and landscaped areas.
+
+6. Habitat: Pink Jacaranda is commonly found in a variety of habitats, including forests, woodlands, and open areas, often in tropical and subtropical regions.
+
+By observing and noting these distinctive features, you can confidently identify Pink Jacaranda trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Block 1
+Strychnos innocua,0001 0100 0010 0011,"Strychnos innocua, commonly known as False Monkey Orange, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: False Monkey Orange is a medium to large-sized tree that can reach heights of 10-20 meters (33-66 feet). It has a rounded canopy with dense foliage.
+
+2. Leaves: The leaves of Strychnos innocua are opposite and simple, with a smooth, glossy surface. The leaves are dark green and usually have a leathery texture.
+
+3. Flowers: False Monkey Orange produces small, greenish-yellow to cream-colored flowers that are arranged in terminal clusters at the ends of branches. The flowers are often not very showy.
+
+4. Fruits: The fruit of Strychnos innocua is a round, smooth-skinned berry that turns yellow to orange when ripe. The fruits are often edible and sweet.
+
+5. Edible Uses: The fruit of False Monkey Orange is sometimes consumed by local communities for its sweet taste.
+
+6. Habitat: False Monkey Orange is commonly found in a variety of habitats, including forests, woodlands, and open areas, often in tropical and subtropical regions.
+
+7. Traditional Uses: Different parts of Strychnos innocua have been used in traditional medicine for various purposes, although the species is not to be confused with other Strychnos species that contain toxic compounds.
+
+By observing and noting these distinctive features, you can confidently identify False Monkey Orange trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",faculty of pharmacy
+Tamarindus indica,0000 1100 0010 0011,"Tamarindus indica, commonly known as Tamarind, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Tamarind is a medium to large-sized tree that can reach heights of 15-25 meters (49-82 feet). It has a rounded canopy with open and airy foliage.
+
+2. Leaves: The leaves of Tamarindus indica are alternate and pinnate, composed of several pairs of opposite leaflets with a single terminal leaflet. The leaflets are oblong and have a smooth margin.
+
+3. Flowers: Tamarind produces small, yellowish to pale yellow flowers that are arranged in loose racemes at the ends of branches. The flowers are often not very showy.
+
+4. Fruits: The fruit of Tamarindus indica is a large, brown pod that contains edible pulp. The pulp is sour and tangy in taste and is used in various culinary dishes.
+
+5. Edible Uses: The pulp of Tamarind is widely used as a flavoring agent in cooking, especially in Asian and Middle Eastern cuisines. It is also used to make tamarind paste, sauces, and drinks.
+
+6. Habitat: Tamarind trees are commonly found in a variety of habitats, including woodlands, savannahs, and cultivated areas, often in tropical and subtropical regions.
+
+7. Medicinal Uses: Various parts of Tamarindus indica have been used in traditional medicine for their digestive and laxative properties.
+
+By observing and noting these distinctive features, you can confidently identify Tamarind trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Teak nursery
+Tectona grandis,0001 0110 0111 0000,"Tectona grandis, commonly known as Teak, is a large tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Teak is a large-sized deciduous tree that can reach heights of 30-40 meters (98-131 feet). It has a straight, tall trunk with grayish-brown bark that becomes rough and fissured on older trees.
+
+2. Leaves: The leaves of Tectona grandis are opposite and simple, with a smooth, leathery texture. The leaves are dark green and usually have a slightly serrated margin.
+
+3. Flowers: Teak produces small, fragrant flowers that are arranged in clusters at the ends of branches. The flowers are often white to pale pink in color.
+
+4. Fruits: The fruit of Tectona grandis is a small, woody capsule that contains tiny seeds. The capsules are often arranged in hanging clusters.
+
+5. Timber and Uses: Teak wood is highly prized for its strength, durability, and resistance to decay. It is used extensively in fine furniture making, boat building, and construction due to its excellent properties.
+
+6. Habitat and Distribution: Teak trees are commonly found in deciduous forests, tropical rainforests, and plantations in various tropical regions around the world.
+
+7. Economic and Cultural Significance: Teak is not only an economically valuable timber tree but also holds cultural significance in various cultures and regions where it is grown.
+
+By observing and noting these distinctive features, you can confidently identify Teak trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Teak Plantation
+Terminalia cattapar,0001 0010 0101 0011,"Terminalia catappa, commonly known as the Indian Almond, Tropical Almond, or Sea Almond, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Terminalia catappa is a medium to large-sized tree that can reach heights of 15-25 meters (49-82 feet). It has a spreading canopy with drooping branches.
+
+2. Leaves: The leaves of Terminalia catappa are alternate and simple, with a broad, elliptical shape. The leaves are dark green and often have a distinctive reddish-brown hue when young.
+
+3. Flowers: Indian Almond produces small, inconspicuous flowers that are arranged in terminal spikes at the ends of branches. The flowers are usually greenish-white in color.
+
+4. Fruits: The fruit of Terminalia catappa is a large, fleshy drupe that is flattened and almond-shaped. The outer husk of the fruit turns green to brown when mature, revealing the hard, woody shell containing the edible kernel.
+
+5. Edible Kernel: The seed kernel inside the fruit is edible and is used in various culinary preparations. It has a nutty flavor and is often consumed raw, roasted, or used in traditional dishes.
+
+6. Habitat and Distribution: Indian Almond trees are commonly found in tropical and subtropical regions around the world. They are often planted near coastal areas and are well-suited to a variety of habitats.
+
+7. Cultural Uses: Terminalia catappa has cultural significance in various regions. In some places, the leaves are used for traditional and ceremonial purposes, and the tree itself is often grown for shade and ornamental purposes.
+
+By observing and noting these distinctive features, you can confidently identify Indian Almond trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Block 6
+Terminalia gluascences,0001 0000 0010 0100,"Terminalia glaucescens, commonly known as the White Terminalia or Glaucous Terminalia, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Terminalia glaucescens is a medium to large-sized tree that can reach heights of 20-30 meters (66-98 feet). It typically has a rounded or spreading canopy with drooping branches.
+
+2. Leaves: The leaves of Terminalia glaucescens are alternate and simple, with a smooth-edged, elliptical to lanceolate shape. The leaves are green and often have a glaucous or waxy coating, giving them a slightly silvery appearance.
+
+3. Flowers: White Terminalia produces small, pale yellow to cream-colored flowers that are arranged in terminal spikes or clusters at the ends of branches. The flowers may not be very showy.
+
+4. Fruits: The fruit of Terminalia glaucescens is a woody capsule that contains small, winged seeds. The capsules may split open when mature to release the seeds.
+
+5. Habitat and Distribution: White Terminalia is often found in woodlands, savannahs, and open areas in tropical and subtropical regions of Africa.
+
+6. Timber and Uses: The wood of Terminalia glaucescens is utilized for various purposes, including construction, furniture making, and carvings. It is known for its durability and is valued for its quality.
+
+7. Traditional and Medicinal Uses: Different parts of the tree have been used in traditional medicine by local communities for various purposes, although specific uses can vary.
+
+By observing and noting these distinctive features, you can confidently identify White Terminalia trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",path leading to ile-apa community
+Terminalia mantaly,0000 0010 0000 0010,"Terminalia mantaly, commonly known as Madagascar Almond or Mantaly, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Terminalia mantaly is a medium-sized tree that can reach heights of 15-20 meters (49-66 feet). It has a rounded canopy with a dense arrangement of leaves.
+
+2. Leaves: The leaves of Terminalia mantaly are alternate and simple, with a smooth-edged, oblong to elliptical shape. The leaves are dark green and often have a reddish hue when young.
+
+3. Flowers: Madagascar Almond produces small, inconspicuous flowers that are arranged in terminal spikes at the ends of branches. The flowers are usually yellowish-green in color.
+
+4. Fruits: The fruit of Terminalia mantaly is a large, woody capsule that is ellipsoid or ovoid in shape. The capsule contains several seeds.
+
+5. Edible Seeds: The seeds of Terminalia mantaly are edible and are consumed in some cultures. They have a nutty flavor and are often roasted or cooked before eating.
+
+6. Habitat and Distribution: Madagascar Almond is native to Madagascar and is often found in coastal and subcoastal forests in the region.
+
+7. Traditional Uses: Different parts of the tree have been used in traditional medicine by local communities in Madagascar.
+
+By observing and noting these distinctive features, you can confidently identify Madagascar Almond trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Faculty of Agriculture
+Vitellaria paradoxa,0101 0001 0010 0100,"Vitellaria paradoxa, commonly known as the Shea Tree or Shea Butter Tree, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Shea Tree is a medium to large-sized tree that can reach heights of 12-20 meters (39-66 feet). It has a rounded canopy with dense foliage.
+
+2. Leaves: The leaves of Vitellaria paradoxa are alternate and compound, typically composed of 5-9 leaflets. The leaflets are elliptical with a smooth margin. The leaves are dark green and provide a lush appearance.
+
+3. Flowers: Shea Tree produces small, greenish-yellow flowers that are arranged in terminal panicles at the ends of branches. The flowers are often not very showy.
+
+4. Fruits: The fruit of Vitellaria paradoxa is a green, plum-sized drupe that contains a large seed. The seed is enclosed in a hard, woody shell.
+
+5. Shea Butter: The seed of the Shea Tree contains shea butter, a valuable vegetable fat that is widely used in cosmetics, skincare products, and cooking.
+
+6. Habitat and Distribution: Shea Trees are commonly found in the Savannah regions of West Africa, particularly in countries such as Ghana, Nigeria, and Burkina Faso.
+
+7. Economic and Cultural Significance: The shea butter extracted from the seeds has significant economic and cultural importance in West African communities. It is used for traditional medicine, skincare, haircare, and culinary purposes.
+
+By observing and noting these distinctive features, you can confidently identify Shea Trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.","Front of Architecture department, walkway, Faculty of Agriculture"
+Vitex doniana,0000 0110 0010 0010,"Vitex doniana, commonly known as the African Black Plum or Doni, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: African Black Plum is a medium-sized tree that can reach heights of 10-15 meters (33-49 feet). It has a rounded canopy with a relatively dense arrangement of leaves.
+
+2. Leaves: The leaves of Vitex doniana are opposite and palmately compound, typically composed of 3-7 leaflets. The leaflets are oval with a smooth margin. The leaves are dark green and provide a lush appearance.
+
+3. Flowers: African Black Plum produces small, fragrant flowers that are arranged in terminal or axillary clusters at the ends of branches. The flowers are often white or pale pink in color.
+
+4. Fruits: The fruit of Vitex doniana is a large, globose drupe that is green when young and turns purplish-black when ripe. The fruit contains a single seed and is edible.
+
+5. Edible Fruit: The ripe fruit of African Black Plum is edible and is used in various culinary preparations, including jams, juices, and traditional dishes.
+
+6. Habitat and Distribution: African Black Plum trees are commonly found in savannah woodlands and grasslands in various regions of Africa.
+
+7. Cultural Uses: The fruit and other parts of the tree have been used for various purposes in traditional medicine and cultural practices in different African communities.
+
+By observing and noting these distinctive features, you can confidently identify African Black Plum trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Beside the school library
+Sena siamea,1000 0110 0010 0010,"Senna siamea, commonly known as Siamese Cassia or Kassod Tree, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Siamese Cassia is a medium to large-sized tree that can reach heights of 10-25 meters (33-82 feet). It has a rounded or spreading canopy with a straight, cylindrical trunk.
+
+2. Leaves: The leaves of Senna siamea are alternate and compound, typically composed of pinnate leaflets. Each leaflet is oval with a smooth margin. The leaves are dark green and provide a lush appearance.
+
+3. Flowers: Siamese Cassia produces large, showy flowers that are arranged in terminal clusters at the ends of branches. The flowers are usually yellow in color and have five distinct petals.
+
+4. Fruits: The fruit of Senna siamea is a flat, brown pod that contains several seeds. The pods are elongated and have a slightly curved shape.
+
+5. Ornamental and Shade Tree: Siamese Cassia is often planted as an ornamental tree for its attractive foliage and colorful flowers. It also provides shade in urban and landscaped areas.
+
+6. Habitat and Distribution: Siamese Cassia is native to Southeast Asia and is commonly found in various types of forests, grasslands, and cultivated areas.
+
+7. Timber and Uses: The wood of Senna siamea is utilized for construction, furniture making, and crafts. The tree is also valued for its medicinal and traditional uses in different cultures.
+
+By observing and noting these distinctive features, you can confidently identify Siamese Cassia trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Unilorin zoo
+Milletia thoniggi,0000 1110 0010 0010,"Milletia thonningii, commonly known as African Wisteria, Milletia, or Thonning's Millettia, is a climbing woody vine species with distinct morphological characteristics that aid in its identification:
+
+1. Growth Habit: African Wisteria is a climbing vine that can grow to impressive lengths by twining around trees or other structures.
+
+2. Leaves: The leaves of Milletia thonningii are alternate and compound, typically composed of three leaflets. The leaflets are oval or oblong with a smooth margin. The leaves provide a lush, green appearance to the vine.
+
+3. Flowers: African Wisteria produces clusters of showy, pea-like flowers that are often pink to purplish in color. The flowers are arranged in long, drooping racemes that can be quite striking.
+
+4. Fruits: The fruit of Milletia thonningii is a leguminous pod that contains several seeds. The pods are elongated and cylindrical in shape.
+
+5. Habitat and Distribution: African Wisteria is native to various parts of sub-Saharan Africa and is often found in forests, woodlands, and savannahs.
+
+6. Ornamental Use: The beautiful flowers of African Wisteria make it a popular choice for ornamental planting, especially in gardens or landscapes where its climbing habit can be showcased.
+
+7. Cultural and Traditional Uses: Different parts of the vine have been used for various purposes in traditional medicine and crafts in different cultures.
+
+By observing and noting these distinctive features, you can confidently identify African Wisteria vines in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Unilorin zoo
+Senna arabica,1001 0000 0010 0011,"Senna arabica, commonly known as Arabian Senna or Wild Senna, is a shrub or small tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Arabian Senna is a small to medium-sized shrub or tree that can reach heights of 2-6 meters (6.6-19.7 feet). It has a spreading or upright growth habit.
+
+2. Leaves: The leaves of Senna arabica are alternate and compound, typically composed of paripinnate leaflets. Each leaflet is oval or lanceolate with a smooth margin. The leaves provide a lush, green appearance to the plant.
+
+3. Flowers: Arabian Senna produces small, yellow to yellow-orange flowers that are arranged in terminal clusters at the ends of branches. The flowers have five distinct petals and are typical of the pea family.
+
+4. Fruits: The fruit of Senna arabica is a flat, elongated pod that contains several seeds. The pods are brown and often remain on the plant even after the leaves have fallen.
+
+5. Medicinal Uses: Various parts of Arabian Senna, especially the leaves and pods, have been used for their medicinal properties as a natural laxative.
+
+6. Habitat and Distribution: Arabian Senna is native to South Asia and is often found in dry and arid regions such as deserts, grasslands, and scrublands.
+
+7. Traditional and Culinary Uses: In some cultures, the seeds of Arabian Senna have been used as a food source or as an ingredient in traditional dishes.
+
+By observing and noting these distinctive features, you can confidently identify Arabian Senna in its natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Unilorin zoo
+Securinega virosa,1000 1010 0010 0000,"Securinega virosa, commonly known as Securinega or Wintergreen, is a shrub or small tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Securinega virosa is a small to medium-sized shrub or tree that can reach heights of 1-4 meters (3.3-13.1 feet). It has a spreading or upright growth habit.
+
+2. Leaves: The leaves of Securinega virosa are alternate and simple, typically oval or elliptical in shape. The leaves have a smooth margin and are often glossy in appearance.
+
+3. Flowers: Wintergreen produces small, inconspicuous flowers that are arranged in clusters at the ends of branches. The flowers may not be very showy.
+
+4. Fruits: The fruit of Securinega virosa is a small, fleshy drupe that contains a single seed. The drupe is often reddish or purplish in color.
+
+5. Habitat and Distribution: Wintergreen is often found in a variety of habitats, including woodlands, grasslands, and rocky areas. It is native to various regions, including parts of Africa, Asia, and Australia.
+
+6. Medicinal and Traditional Uses: Different parts of Securinega virosa have been used for various medicinal and traditional purposes by local communities. Extracts from the plant have been studied for their potential pharmacological properties.
+
+By observing and noting these distinctive features, you can confidently identify Wintergreen in its natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",Faclulty of Pharmacy
+Melicia excelsa,0011 0001 0100 0000,"Melicia excelsa, commonly known as Umzimbeet or Rockwood, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Umzimbeet is a medium to large-sized tree that can reach heights of 15-25 meters (49-82 feet). It has a straight, cylindrical trunk and a rounded canopy of foliage.
+
+2. Leaves: The leaves of Melicia excelsa are alternate and compound, typically composed of 3-5 leaflets. The leaflets are oval or lanceolate with a smooth margin. The leaves are often dark green and provide a lush appearance to the tree.
+
+3. Flowers: Umzimbeet produces small, greenish-white to cream-colored flowers that are arranged in axillary clusters or panicles at the ends of branches. The flowers are often inconspicuous.
+
+4. Fruits: The fruit of Melicia excelsa is a woody capsule that contains several seeds. The capsules are often elongated or cylindrical in shape.
+
+5. Habitat and Distribution: Umzimbeet is commonly found in various types of woodlands, savannahs, and rocky areas. It is native to southern Africa, including countries like South Africa, Zimbabwe, and Mozambique.
+
+6. Timber and Uses: The wood of Melicia excelsa is highly valued for its strength and durability. It is used for construction, furniture making, and carvings in some regions. The tree has cultural and traditional significance in some local communities.
+
+By observing and noting these distinctive features, you can confidently identify Umzimbeet trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",faculty of pharmacy
+Terminalia avicenniodes,0001 0000 0010 0000,"Terminalia avicennioides, commonly known as Black Terminalia or Avicennia-leaved Terminalia, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Black Terminalia is a medium-sized tree that can reach heights of 15-20 meters (49-66 feet). It has a rounded or spreading canopy with a straight, cylindrical trunk.
+
+2. Leaves: The leaves of Terminalia avicennioides are alternate and simple, typically obovate or elliptical in shape. The leaves have a smooth margin and are often dark green in color.
+
+3. Flowers: Black Terminalia produces small, greenish-yellow flowers that are arranged in terminal panicles at the ends of branches. The flowers may not be very showy.
+
+4. Fruits: The fruit of Terminalia avicennioides is a woody capsule that contains several seeds. The capsules are often rugose or ribbed in appearance.
+
+5. Habitat and Distribution: Black Terminalia is commonly found in a variety of habitats, including woodlands, savannahs, and riparian areas. It is native to parts of Africa, including West and Central Africa.
+
+6. Uses: Different parts of Terminalia avicennioides have been used for various purposes. The bark and leaves have been used in traditional medicine, and the wood is used for carving and construction in some areas.
+
+By observing and noting these distinctive features, you can confidently identify Black Terminalia in its natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",faculty of pharmacy
+Pachira glabra,0001 0000 0010 0010,"Pachira glabra, commonly known as Guiana Chestnut, Malabar Chestnut, or Money Tree, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Guiana Chestnut is a medium to large-sized tree that can reach heights of 15-25 meters (49-82 feet). It has a straight, upright trunk and a rounded canopy of foliage.
+
+2. Leaves: The leaves of Pachira glabra are alternate and compound, typically composed of 5-9 leaflets. The leaflets are oblong or elliptical with a smooth margin. The leaves are often dark green and provide a lush appearance to the tree.
+
+3. Flowers: Guiana Chestnut produces large, showy flowers that are arranged in terminal clusters at the ends of branches. The flowers are often white or cream-colored and have five distinct petals.
+
+4. Fruits: The fruit of Pachira glabra is a large, woody capsule that contains several edible seeds. The capsule is often green when young and turns brown as it matures.
+
+5. Edible Seeds: The seeds of Guiana Chestnut are edible and have a mild, nutty flavor. They are commonly consumed in some cultures and can be roasted or cooked.
+
+6. Habitat and Distribution: Guiana Chestnut is native to Central and South America and is often found in tropical rainforests, riverbanks, and wetlands.
+
+7. Ornamental and Cultural Uses: The Guiana Chestnut is a popular ornamental tree in gardens and landscapes, often grown for its attractive foliage and unique trunk. It is also associated with mythology and folklore in some cultures.
+
+By observing and noting these distinctive features, you can confidently identify Guiana Chestnut trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",faculty of pharmacy
+Alstonia boonei,0101 0110 0010 0000,"Alstonia boonei, commonly known as Boone's Milkwood or Tree of Poison, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Boone's Milkwood is a medium to large-sized tree that can reach heights of 20-35 meters (66-115 feet). It has a straight, cylindrical trunk and a rounded or pyramidal canopy of foliage.
+
+2. Leaves: The leaves of Alstonia boonei are opposite and simple, typically elliptical or lanceolate in shape. The leaves have a smooth margin and are often dark green on the upper surface and lighter green on the lower surface.
+
+3. Flowers: Boone's Milkwood produces small, white, tubular flowers that are arranged in terminal clusters at the ends of branches. The flowers have a distinctive fragrance.
+
+4. Fruits: The fruit of Alstonia boonei is a long, slender capsule that contains numerous seeds. The capsules are often green when young and turn brown as they mature.
+
+5. Latex and Uses: One of the notable features of Boone's Milkwood is the white latex that exudes from broken parts of the tree. The latex is known for its poisonous nature and has been used for arrow poison by some indigenous communities.
+
+6. Habitat and Distribution: Alstonia boonei is native to various parts of West and Central Africa and is often found in rainforests, gallery forests, and wooded savannahs.
+
+7. Traditional and Medicinal Uses: Despite its poisonous nature, various parts of the tree have been used in traditional medicine by local communities for treating a range of ailments.
+
+By observing and noting these distinctive features, you can confidently identify Boone's Milkwood trees in their natural habitat. However, due to its toxic properties, it's important to exercise caution and seek guidance from local experts when interacting with this species. Consulting region-specific field guides or botanical experts is recommended for accurate identification and to learn more about this species.",faculty of pharmacy
+Pilliostigma reticulatum,0001 0001 0000 0101,"Piliostigma reticulatum, commonly known as Reticulated Camel's Foot or Camel's Foot Tree, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Reticulated Camel's Foot is a medium-sized tree that can reach heights of 10-20 meters (33-66 feet). It has a distinctive trunk that resembles a camel's foot, giving rise to its common name.
+
+2. Leaves: The leaves of Piliostigma reticulatum are alternate and compound, typically composed of three leaflets. The leaflets are oval or elliptical with a reticulate venation pattern on the surface, which is a key identifying feature.
+
+3. Flowers: Reticulated Camel's Foot produces small, reddish flowers that are arranged in compact clusters at the ends of branches. The flowers are often conspicuous due to their color.
+
+4. Fruits: The fruit of Piliostigma reticulatum is a woody pod that is reticulated in appearance, resembling the leaf venation. The pods contain several seeds.
+
+5. Habitat and Distribution: Reticulated Camel's Foot is native to various parts of West Africa and is often found in woodlands, savannahs, and dry regions.
+
+6. Uses: Different parts of Piliostigma reticulatum have been used for various purposes. The bark and leaves have been used in traditional medicine, and the wood has been used for construction and carving in some regions.
+
+By observing and noting these distinctive features, you can confidently identify Reticulated Camel's Foot trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",faculty of pharmacy
+Bombax buonopozense,1001 0010 0010 0000,"Bombax buonopozense, commonly known as Red-Flowered Silk Cotton Tree or African Bombax, is a tree species with distinct morphological characteristics that aid in its identification:
+
+1. Size and Habit: Red-Flowered Silk Cotton Tree is a large-sized tree that can reach heights of 25-40 meters (82-131 feet). It has a straight, cylindrical trunk and a massive, spreading canopy of foliage.
+
+2. Leaves: The leaves of Bombax buonopozense are alternate and compound, typically composed of 5-7 leaflets. The leaflets are oval or lanceolate with a smooth margin. The leaves provide a lush appearance to the tree.
+
+3. Flowers: Red-Flowered Silk Cotton Tree produces large, showy, red or pink flowers that are arranged in terminal clusters at the ends of branches. The flowers have five distinct petals and are often conspicuous due to their color.
+
+4. Fruits: The fruit of Bombax buonopozense is a large, woody capsule that contains numerous seeds. The capsules are often covered with spines and can be quite distinctive.
+
+5. Habitat and Distribution: Red-Flowered Silk Cotton Tree is native to various parts of sub-Saharan Africa and is often found in woodlands, savannahs, and gallery forests.
+
+6. Uses: Different parts of Bombax buonopozense have been used for various purposes. The fluffy fibers surrounding the seeds have been used for making pillows, cushions, and traditional clothing. The wood is used for carving and sometimes for construction.
+
+By observing and noting these distinctive features, you can confidently identify Red-Flowered Silk Cotton Trees in their natural habitat. For accurate identification and to learn more about this species, consulting local botanical experts or using region-specific field guides is recommended.",faculty of pharmacy

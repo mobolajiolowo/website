@@ -8,9 +8,16 @@
     <h1>Search Results</h1>
     <div class="result">
         <h2>The specie you searched is {{ species_name }}</h2>
-        <p>Taxono mic keys: {{ keys }}</p>
-      <p>Description: {{ descriptipn}}</p>
-      <p> This specie can be found at {{location}} on the campus of University of Ilorin</p>
+        <p><strong>Taxono mic keys:</strong> {{ keys }}</p>
+      <p><strong>Description:</strong></p>
+      <ul>
+        {% for line in description.split("\n") %}
+        <li>
+          {{line}}
+        {% endfor %}
+        </li>
+      </ul>
+      <p></strong>Location:</strong> This specie can be found at {{location}} on the campus of University of Ilorin</p>
     </div>
 </body>
 </html>

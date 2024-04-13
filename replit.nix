@@ -1,5 +1,7 @@
 { pkgs }: {
   deps = [
+    pkgs.glibcLocales
+    pkgs.glibc
     pkgs.python310Full
     pkgs.replitPackages.prybar-python310
     pkgs.replitPackages.stderred
